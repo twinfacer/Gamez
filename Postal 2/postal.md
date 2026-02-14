@@ -1,0 +1,1729 @@
+## Locations
+- Monday +
+  - Home [DONE,VERIFIED]
+    - Trailer
+      - Monday [VERIFIED]
+        - __Shovel__ and __Health Pipe__ in closet next to trailer.
+        - __Fastfood__ on trailer roof.
+        - __Newspaper__ on ground.
+      - Tuesday [VERIFIED]
+        - __Shovel__ and __Fish Locator__ in closet next to trailer.
+        - 3 __Dynamite__ on closet roof.
+        - __Fastfood__ on trailer roof.
+        - __Newspaper__ on ground.
+      - Wednesday [VERIFIED]
+        - __Shovel__ and __Fish Locator__ in closet next to trailer.
+        - 3 __Dynamite__ on closet roof.
+        - __Fastfood__ on trailer roof.
+        - __Newspaper__ on ground.
+      - Thursday [VERIFIED]
+        - __Shovel__ and __Fish Locator__ in closet next to trailer.
+        - 3 __Dynamite__ on closet roof.
+        - __Fastfood__ on trailer roof.
+        - __Newspaper__ on ground.
+      - Friday [VERIFIED]
+        - __Hatchet__, __Shovel__ and __Fish Locator__ in closet next to trailer.
+        - 3 __Dynamite__ on closet roof.
+        - __Fastfood__ on trailer roof.
+        - __Newspaper__ on ground.
+    - Closest home (with 1 NPC)
+      - Monday [VERIFIED]
+        - __Shovel__ at entry door.
+        - __Shockrocket__ at table.
+        - __Armor__ at closet.
+        - __Gasoline Tank__ after wardrobe in next room.
+        - __Health Pipe__ on roof (jump from Champ home to wall).
+      - Tuesday [VERIFIED]
+        - 2 __Pistol__ at table.
+        - __Armor__ at closet.
+        - __Gasoline Tank__ after wardrobe in next room.
+        - __Health Pipe__ on roof (jump from Champ home to wall).
+      - Wednesday [VERIFIED]
+        - 2 __Pistol__ at table.
+        - __Armor__ at closet.
+        - __Gasoline Tank__ after wardrobe in next room.
+        - __Health Pipe__ on roof (jump from Champ home to wall).
+      - Thursday [VERIFIED]
+        - 2 __Pistol__ at table.
+        - __Army Armor__ and __Health Pipe__ at closet.
+        - __Gasoline Tank__ after wardrobe in next room.
+        - __Health Pipe__ on roof (jump from Champ home to wall).
+      - Friday [VERIFIED]
+        - 2 __Pistol__ at table.
+        - __Army Armor__ and __Health Pipe__ at closet.
+        - __Gasoline Tank__ after wardrobe in next room.
+        - __Health Pipe__ on roof (jump from Champ home to wall).
+    - Beware dog home
+      - Monday [VERIFIED]
+        - 7 __Dog Treat__ at storage space.
+        - 3 __Donut__ at kitchen table.
+        - __Medkit__ in bathroom.
+        - __Armor__ at table in sleeproom.
+        - __10$__ at table in room with bookshelfs.
+        - 2 __Shotgun Ammo__ of roof.
+      - Tuesday [VERIFIED]
+        - 1 __Dog Treat__ and __Garden Scissors__ (kick boxes) at storage space.
+        - __Donut__ at kitchen table.
+        - __Medkit__ in bathroom.
+        - __Armor__ at table in sleeproom.
+        - __MP-5 Ammo__ at fireplace.
+        - __20$__ at table in room with bookshelfs.
+        - 2 __Shotgun Ammo__ of roof.
+      - Wednesday [VERIFIED]
+        - __Gasoline Tank__ and __Garden Scissors__ (kick boxes) at storage space.
+        - __Armor__ at table in sleeproom.
+        - __Medkit__ in bathroom.
+        - __MP-5 Ammo__ at fireplace.
+        - __Shotgun__ and 2 __Shotgun Ammo__ at wooden room.
+        - 2 __Shotgun Ammo__ on roof.
+      - Thursday [VERIFIED]
+        - __Gasoline Tank__ and __Garden Scissors__ (kick boxes) at storage space.
+        - __Armor__ at table in sleeproom.
+        - __Medkit__ in bathroom.
+        - __Shotgun__ and 3 __Shotgun Ammo__ at wooden room.
+        - 2 __Shotgun Ammo__ on roof.
+        - __Sawed Off__ on cliff.
+      - Friday  [VERIFIED]
+        - __Gasoline Tank__ and __Garden Scissors__ (kick boxes) at storage space.
+        - __Armor__ at table in sleeproom.
+        - __MP-5 Ammo__ at fireplace.
+        - __Medkit__ in bathroom.
+        - __Shotgun__ and 3 __Shotgun Shells__ at wooden room.
+        - 2 __Shotgun Shells__ of roof.
+        - __Sawed Off__ on cliff.
+    - Low home
+      - Monday [VERIFIED]
+        - __Shotgun__ in toilet (wooman section).
+        - __Medkit__ in room (doctor section).
+        - 2 __Medkit__ and __M-16 Ammo__ on roof.
+      - Tuesday [VERIFIED]
+        - __Shotgun__ in toilet in woman section.
+        - 1 __Medkit__ in doctor section.
+        - 2 __Medkit__, 1 __M-16 Ammo__ and 3 __Dynamite__ on roof.
+      - Wednesday
+        - 2 __Medkit__ in doctor home.
+        - __Shotgun__ in toilet.
+        - 2 __Medkit__ and 2 __M-16 Ammo__ on roof.
+        - __Flamethrower__ in another one.
+        - __Hatchet__ at tree.
+      - Thursday [VERIFIED]
+        - 3 __Medkit__ and __Flamethrower__ in doctor home.
+        - __Shotgun__ in toilet in another house.
+        - 2 __Medkit__, 6 __Dynamite__, and 2 __M-16 Ammo__ on roof.
+        - __Hatchet__ at tree.
+      - Friday [VERIFIED]
+        - 4 __Medkit__ in doctor home.
+        - __Flamethrower__ in doctors toilet.
+        - __Shotgun__ in toilet in woman section.
+        - 2 __Medkit__, 9 __Dynamite__ and 2 __M-16 Ammo__ on roof.
+        - __Hatchet__ at tree.
+    - Home with 2 sections after Main street
+      - Monday [VERIFIED]
+        - __Medkit__ in bookshelf in left.
+        - __10$__ at sleeping room in left section.
+        - __Health Pipe__ in bathroom of left section.
+        - __M-16__ in corner of second room of right section.
+        - __Gasoline Tank__ in bathroom of right section.
+        - __Health Pipe__ on roof. (use cliff)
+        - 3 __Dynamite__ on right cliff. (use 2 tree)
+      - Tuesday [VERIFIED]
+        - __Medkit__ in bookshelf in left section.
+        - __Catnip__ and __10$__ at sleep room at left section.
+        - __Gasoline Tank__ in bathroom in right section.
+        - __Shotgun__ at bed at right section.
+        - __M-16__ in corner at right section.
+        - __Medkit__ on roof. (use cliff)
+        - 3 __Dynamite__ on right cliff. (use 2 tree)
+      - Wednesday [VERIFIED]
+        - __Medkit__ in bookshelf in left section.
+        - __Glock Ammo__ in toilet.
+        - __20$__ at sleeping room table in left section.
+        - 2 __Gasoline Tank__ in bathroom at right section.
+        - __Shotgun__ at bed at right section.
+        - __Armor__ on roof.
+        - 3 __Dynamite__ and __Grenade Launcher__ on right cliff. (use 2 tree)
+      - Thursday [VERIFIED]
+        - __Medkit__ in bookshelf in left.
+        - __Fish Locator__ at sleeping room table in left side.
+        - 2 __Gasoline Tanks__ in bathroom in right side.
+        - __Shotgun__ at bad in right side.
+        - 8 __Grenades__ on roof. (use cliff)
+        - 3 __Dynamite__ and __Grenade Launcher__ on right cliff. (use 2 tree)
+      - Friday [VERIFIED]
+        - __Medkit__ in bookshelf in woman section.
+        - __Fish Locator__ and __Catnip__ at sleeping room table.
+        - __Glock Ammo__ in woman toilet.
+        - 3 __Gasoline Tanks__ and __Napalm Ammo__ in man bathroom.
+        - __Shotgun__ at bed.
+        - 2 __M-16__ at corner.
+        - __Sniper Rifle__ on roof. (use cliff)
+        - 3 __Dynamite__ and __Grenade Launcher__ on right cliff. (use 2 tree)
+    - Dealer home (dealer inside)
+      - Monday [VERIFIED]
+        - __Brass Knuckles__, __Health Pipe__ and __10$__ on his table.
+        - __M-16__, __Health Pipe__, and __30$__ in _employee only_ room.
+        - 2 __Rifle Ammo__ on roof.
+      - Tuesday [VERIFIED]
+        - __Brass Knuckles__ and __20$__ on his table.
+        - __M-16__, __Health Pipe__, __Glock__, __Batterfly Knife__, 8 __Grenades__, and __40$__ in _employee  only_ room.
+        - 2 __Rifle Ammo__ on roof.
+      - Wednesday [VERIFIED]
+        - __Brass Knuckles__ on his table.
+        - __M-16__, __Health Pipe__, __Glock__, 12 __Grenades__, and __50$__ in _employee  only_ room.
+        - 2 __Rifle Ammo__ on roof.
+      - Thursday [VERIFIED]
+        - __Brass Knuckles__ on his table.
+        - __M-16__, __Health Pipe__, __Glock__, __Batterfly Knife__, 12 __Grenades__, and __70$__ in _employee  only_ room.
+        - 3 __Dynamite__ in a toilet room in garrage.
+        - 2 __Rifle Ammo__ on roof.
+      - Friday [VERIFIED]
+        - __Brass Knuckles__ and __30$__ on his table.
+        - __Rocket Launcher__, __M-16__, __Health Pipe__, __Glock__, __Machete__, 24 __Grenades__, and __110$__ in _employee  only_ room.
+        - 3 __Dynamite__ in a toilet room in garrage.
+        - __Chainsaw__ in toilet.
+        - 2 __Rifle Ammo__ on roof.
+    - ATF Home (2 ATF inside)
+      - Monday [VERIFIED]
+        - __Medkit__ behind bookcase.
+        - 2 __M-16__ at bed.
+        - 5 __Dog Treat__ on roof.
+      - Tuesday [VERIFIED]
+        - __Medkit__ behind bookcase.
+        - 2 __M-16__ and __Gasoline Tank__ at bed. 
+        - __Glock__ on kitchen table.
+        - 5 __Dog Treat__ on roof.
+      - Wednesday [VERIFIED]
+        - __Medkit__ behind bookcase.
+        - 2 __M-16__ and __Gasoline Tank__ at bed. 
+        - 2 __Glocks__ and __Glock Ammo__ on kitchen table.
+        - __Shotgun__ at wooden room.
+        - __Catnip__ on roof.
+      - Thursday [VERIFIED]
+        - __Medkit__ behind bookcase.
+        - 2 __M-16__ and 2 __Gasoline Tank__ near bad. 
+        - 2 __Glocks__ and 2 __Glock Ammo__ on kitchen table.
+        - __Shotgun__ at wooden room.
+        - __Catnip__ on roof.
+      - Friday [VERIFIED]
+        - __Medkit__ behind bookcase.
+        - 4 __M-16__ and 3 __Gasoline Tank__ at bed. 
+        - 2 __Glock MP-5__ on kitchen table.
+        - __Shotgun__ at wooden room.
+        - __Rocket Fuel__ and __Grenade Launcher__ at roof.
+    - Fire in a Hole
+      - Monday [VERIFIED]
+        - __Shotgun__ behind bartender stand.
+        - __Medkit__ at toilet.
+        - __Brass Knucles__ at pleasure room on second floor.
+        - __Shotgun__ at roof (use Laundry and wires).
+        - __Catnip__ at outer wall decoration (jump from phone).
+      - Tuesday [VERIFIED]
+        - __Medkit__ at toilet.
+        - __Brass Knucles__ at pleasure room.
+        - __Shotgun__ at bar on 1 floor.
+        - __Shotgun__ and __Shotgun Shells__ at roof (use Laundry and wires).
+        - __M-16 Ammo__ at outer wall decoration (jump from phone).
+        - __Locator Plugin__ at end of east wires.
+      - Wednesday [VERIFIED]
+        - __Medkit__ at toilet.
+        - __Brass Knucles__ at pleasure room.
+        - __Shotgun__ at bar on 1 floor.
+        - __Shiper Rifle__ at roof (use Laundry and wires).
+        - __Shotgun Shells__ at outer wall decoration (jump from phone).
+        - __Locator Plugin__ at end of east wires.
+      - Thursday [VERIFIED]
+        - __Medkit__ at toilet.
+        - 2 __Brass Knucles__ at pleasure room at second floor.
+        - __Shotgun__ at bar on first floor.
+        - __Shiper Rifle__ at roof (use Laundry and wires).
+        - __Shotgun Shells__ at outer wall decoration (jump from phone).
+        -  __Locator Plugin__ at end of east wires.
+      - Friday [VERIFIED]
+        - __Medkit__ at toilet.
+        - __Brass Knucles__ and __Health Pipe__ at pleasure room.
+        - __Shotgun__ at bar on first floor.
+        - __Sniper Rifle__ and __Sniper Rifle Rounds__ at roof (use Laundry and wires).
+        - __Catnip__ at outer wall decoration (jump from phone).
+        - __Locator Plugin__ at end of east wires.
+        - __Chainsaw__ at posterboard behind (use wires).
+    - Laundry
+      - Monday [VERIFIED]
+        - __Medkit__ and 2 __Pistol__ in roof.
+      - Tuesday [VERIFIED]
+        - __Medkit__ and 2 __Pistol__ in roof.
+      - Wednesday [VERIFIED]
+        - __Medkit__ and __M16__ in roof.
+        - __Fish Locator__ at tree behind.
+      - Thursday [VERIFIED]
+        - 2 __Medkit__ and __M16__ in roof.
+        - __Fish Locator__ at tree behind.
+      - Friday [VERIFIED]
+        - 2 __Medkit__, 2 __Pistol__, 2 __Molotov Coctail__ and __M16__ on roof.
+        - __Fish Locator__ at tree behind.
+    - Grossman Arcade
+      - Monday [VERIFIED]
+        - __ATM__ inside.
+        - __M-16__ at locker.
+        - __Medkit__ , 4 __Grenade__ and 2 __M16 Ammo__ on roof (use wires for Laundry).
+      - Tuesday [VERIFIED]
+        - __ATM__ inside.
+        - __M-16__ at locker.
+        - __Armor__, 4 __Grenade__, 3 __Dynomite__ and 2 __M16 Ammo__ on roof (use wires for Laundry) to reach here.
+      - Wednesday
+        - __ATM__ inside.
+        - __M-16__ at locker.
+        - __Medkit__, __Hammer__,  8 __Grenade__, 6 __Dynomite__, __Flamethrower__ and 3 __M16 Ammo__ on roof (use wires for Laundry) to reach here.
+      - Thursday [VERIFIED]
+        - __ATM__ inside.
+        - __M-16__ at locker.
+        - __Army Armor__, __Rocket Fuel__, __Napalm Ammo__, __Catnip__, __Hammer__, 3 __Donut__, 12 __Grenades__, 6 __Dynomyte__ and 5 __M16 Ammo__ on roof (use wires for Laundry) to reach here.
+      - Friday [VERIFIED]
+        - __ATM__.
+        - __M-16__ at locker.
+        - __Army Armor__, 2 __Rocket Fuel__, 2 __Napalm Ammo__, 2 __Catnip__, __Hammer__, __Flamethrower__, 3 __Donut__ , 12 __Grenades__ (or SHITLOAD IDK), 9 __Dynomite__ and 5 __M16 Ammo__ on roof (use wires for Laundry) to reach here.
+        - __Health Pipe__ at wires. <check>
+        - __Chompy Chip__ at wires next. <check>
+    - Asian Cock
+      - Monday [VERIFIED]
+        - __Pistol__ at 2 floor at bar.
+        - __M16__ and __10$__ in last room.
+      - Tuesday [VERIFIED]
+        - __Pistol__ at 2 floor at bar.
+        - __M-16__, __Glock Ammo__ and __20$__ in last room.
+      - Wednesday [VERIFIED]
+        - __Cow Head__ in kitchen.
+        - __Pistol__ at 2 floor at bar.
+        - __M-16__, __Baseball Bat__, __Shotgun__, and __30$__ in last room.
+      - Thursday [VERIFIED]
+        - __Cow Head__ in kitchen.
+        - __Pistol__ at second floor at bar.
+        - 2 __M-16__, __Baseball Bat__, __Shotgun__, __Glock Ammo__, __MP-5 Ammo__, __Armor__, __Medkit__ and __30$__ in last room.
+        - __Napalm Ammo__ at wires near loading zone. <check>
+      - Friday [VERIFIED]
+        - __Cow Head__ in kitchen.
+        - __Pistol__ at 2 floor at bar.
+        - 2 __M-16__, __Baseball Bat__, __Shotgun__, __Rocket Launcher__, __MP-5 Ammo__, __Armor__, 2 __Medkit__ and __40$__ in last room.
+        - __Napalm Ammo__ at wires near loading zone.
+  - Main Street [DONE,VERIFIED]
+    - Lucky Ganesh
+      - Monday [VERIFIED]
+        - __Medkit__ at lair entrance after right boxes.
+        - 2 __Medkit__, 16 __Grenade__ and __Rocket Launcher__ at doggs.
+        - __Medkit__, __Armor__ and __Pistol__ in first left room.
+        - 2 __Medkit__ and 3 __Pistol Ammo__ at middle right hall.
+        - __Fastfood__ (near chair) and __Molotov Coctail__ (in closet) in far left room.
+        - __Fastfood__ in Laundry (far right).
+        - __Scissors__ in closet in central room.
+        - __Health Pipe__ on nameplate after window in central room.
+        - __Shotgun__ in stock in playroom.
+        - 2 __Medkit__ in bathroom closed.
+        - __M-16__ and __160$__ in closed in sleeping room.
+        - 3 __Dynamite__ at outer light at roof.
+      - Tuesday [VERIFIED]
+        - __Medkit__ at lair entrance after right boxes.
+        - 2 __Medkits__, 16 __Grenades__, __Rocket Launcher__ at doggs.
+        - __Medkit__, (behind last bed) __Armor__ and __Pistol__ (on closed) in first left room.
+        - 2 __Medkits__ and 3 __Pistol Ammo__ at middle right hall.
+        - 2 __Fast Food__ in Laundry (far right).
+        - __Scissors__ in closet in central.
+        - __M-16__ in closet in sleeping room.
+        - 2 __Medkit__ in bathroom closed.
+        - __Fast Food__ and __Molotov Coctail__ in far left room.
+        - __Shotgun__ in stock in playroom.
+        - 2 __Glock Ammo__ and 3 __Dynamites__ on roof.
+      - Wednesday [VERIFIED]
+        - __Medkit__ at lair entrance after right boxes.
+        - 2 __Medkits__, 16 __Grenades__, __Baseball Bat__ and __Rocket Launcher__ at doggs.
+        - __Medkit__, __Armor__ and __Pistol__ in first left room.
+        - 2 __Medkits__ and 3 __Pistol Ammo__ at middle right hall.
+        - 3 __Fast Food__ in Laundry (far right).
+        - 2 __Rocket Fuel__ in closet in central.
+        - 1 __Fast Food__ and 2 __Molotov__ in far left room.
+        - 1 __Shotgun__ in stock in playroom.
+        - 2 __Medkit__ in bathroom closed.
+        - __Fish Locator__ and __Locator Plug__  in a wooden room.
+        - 2 __M-16__ in closet in sleeping room.
+        - 3 __Dynamite__ at outer light at roof.
+        - __Glock Ammo__ on roof.
+      - Thursday [VERIFIED]
+        - __Medkit__ at lair entrance after right boxes.
+        - 2 __Medkits__, __Machete__, 16 __Grenades__ and __Rocket Launcher__ at dog's pit.
+        - __Medkit__ (behind last bed) and __Pistol__ (on closed) in first left room.
+        - 2 __Medkits__ and 3 __Pistol Ammo__ at middle right hall.
+        - 3 __Fast Food__ in Laundry (far right).
+        - 1 __Health Pipe__ on nameplate after window.
+        - __Cow  Head__ in closet in middle room (with talib execute someones).
+        - __Fish Locator__ in a wooden room.
+        - 1 __Fast Food__ and 2 __Molotov Coctails__ (in closed) in far left room.
+        - 1 __Shotgun__ in stock in playroom.
+        - 2 __Medkits__ in bathroom back-room.
+        - 2 __M-16__ in closet in sleeping room.
+        - 1 __MP5 Ammo__ and 3 __Dynamites__ at roof.
+        - __Sawed Off__ after trash can corner of shop near 2 loading zones (near cacti).
+      - Friday [VERIFIED]
+        - __Medkit__ at lair entrance after right boxes.
+        - 2 __Medkits__, __Machete__, 16 __Grenades__ and __Rocket Launcher__ at dog's pit.
+        - __Medkit__ (behind last bed) and __Pistol__ (on closed) in first left room.
+        - 2 __Medkits__ and 3 __Pistol Ammo__ at middle right hall.
+        - 3 __Fast Food__ in Laundry (far right).
+        - __Rifle Rounds__ in closet in middle room.
+        - __Fish Locator__ and __Napalm Ammo__  in a wooden room.
+        - 1 __Shotgun__ in stock in playroom (also huge taliban horde).
+        - 3 __M-16__ in closet in sleeping room.
+        - 2 __Medkits__ in bathroom back-room.
+        - 1 __Fast Food__ and 4 __Molotov Coctails__ in far left room.
+        - 2 __MP5 Ammo__ at roof.
+        - __Scythe__ after trash can corner of shop near 2 loading zones (near cacti).
+    - Empty House
+      - Monday (NONE) [VERIFIED]
+      - Tuesday [VERIFIED]
+        - __Butterfly Knife__ near roof access.
+      - Wednesday [VERIFIED]
+        - 4 __Fast Food__ inside.
+        - __Glock Ammo__ at roof exit.
+        - __Baseball Bat__ behind it.
+      - Thursday [VERIFIED]
+        - __Baseball Bat__ behind it.
+        - __Flamethrower__ near roof exit.
+      - Friday [VERIFIED]
+        - __Garden Scissors__ behind it.
+        - __MP 5 Ammo__ near roof exit.
+    - Tunnel Head
+      - Monday [VERIFIED]
+        - __Health Pipe__ (1,2).
+      - Tuesday [VERIFIED]
+        - __Health Pipe__.
+      - Wednesday [VERIFIED]
+        - __Medkit__. (3,4)
+      - Thursday [VERIFIED]
+        - __Medkit__.
+      - Friday [VERIFIED]
+        - __Armor__. (5)
+    - Catland
+      - Monday [VERIFIED]
+        - 2 __Fastfood__ in rocks in roofs.
+        - __Catnip__, 6 __Cat__, __Shotgun__, __Health Pipe__, __Gasoline Tank__ and 3 __Donut__.
+      - Tuesday [VERIFIED]
+        - 2 __Fastfood__ in rocks in roofs.
+        - __Catnip__, 6 __Cat__, __Shotgun__, __Health Pipe__, __Gasoline Tank__ and 3 __Donuts__.
+      - Wednesday [VERIFIED]
+        - 2 __Fastfood__ in rocks in roofs.
+        - 6 __Cats__, 2 __Health Pipe__, 2 __Gasoline Tank__, __Shotgun__, __Catnip__ and 3 __Donuts__.
+      - Thursday [VERIFIED]
+        - 2 __Fastfood__ in rocks in roofs.
+        - 2 __Health Pipe__, 5 __Dog Treat__, __Napalm Ammo__, __Catnip__.
+      - Friday [VERIFIED]
+        - 2 __Fast Food__ in rocks in roofs.
+        - 2 __Health Pipe__, 1 __Medkit__, 1 __Armor__, 1 __Rocket Fuel__, __Catnip__.
+    - Paradise Bookstore
+      - Monday [VERIFIED]
+        - 2 __Medkit__ and __Gasoline Tank__ (behind boxes) at first floor.
+        - 2 __Medkit__ at 2 floor at closed (white door) behind cop. 
+        - __Armor__ and __M-16__ at 2 floor.
+        - __M-16__ at roof.
+      - Tuesday [VERIFIED]
+        - 2 __Medkit__ and __Gasoline Tank__ (behind boxes) at 1 floor.
+        - 2 __Medkit__ at 2 floor at closed (white door) behind cop. 
+        - __Armor__ and __M-16__ at 2 floor.
+        - __Glock Ammo__ (next to ladder) at 2 floor.
+        - __M-16__ at roof.
+      - Wednesday [VERIFIED]
+        - 2 __Medkit__ and __Gasoline Tank__ (behind boxes) at 1 floor.
+        - 2 __Medkit__ at 2 floor at closed (white door) behind cop. 
+        - __Medkit__  and __Armor__ at 2 floor.
+        - __Glock Ammo__ (next to ladder) at 2 floor.
+        - __Sniper Rifle__ at roof.
+      - Thursday [VERIFIED]
+        - 2 __Medkit__ and __Gasoline Tank__ (behind boxes) at 1 floor.
+        - 2 __Medkit__ at 2 floor at closed (white door) behind cop. 
+        - __Armor__, __Shotgun__ and __Medkit__ at 2 floor.
+        - __MP-5 Ammo__ (next to ladder) at 2 floor.
+        - 2 __Medkit__ and __Sniper Rifle__ at roof.
+      - Friday [VERIFIED]
+        - 2 __Medkit__ and __Gasoline Tank__ (behind boxes) at 1 floor.
+        - __Armor__, __Shotgun__, __MP5 Ammo__ and 3 __Medkit__ at 2 floor.
+        - 12 __Grenade__ and 2 __Medkits__ at roof (jump from trash vault). (Angry SWAT here)
+    - Beware the dog house
+      - Monday [VERIFIED]
+        - __Medkit__ in a trashcan near home loading zone.
+        - 5 __Dog Treat__, __Shotgun__, __Medkit__ and __Brass Knukles__ in home.
+        - 2 __Medkit__ and 12 __Grenade__ on roof. (use grill to get on wall)
+      - Tuesday [VERIFIED]
+        - __Medkit__ in a trashcan near home loading zone.
+        - 5 __Dog Treat__, __Shotgun__, __Medkit__ and __Brass Knukles__ in home.
+        - 2 __Medkit__ and __MP-5__ on roof. (use grill to get on wall)
+      - Wednesday [VERIFIED]
+        - 5 __Dog Treat__, __Shotgun__, __Medkit__ and __Brass Knukles__ in home.
+        - __Medkit__ in a trashcan near home loading zone.
+        - 2 __Medkit__ and __MP-5__ on roof. (use grill to get on wall)
+      - Thursday [VERIFIED]
+        - __Medkit__ in a trashcan near home loading zone.
+        - 5 __Dog Treat__, __Shotgun__, __Medkit__ and __Brass Knukles__ in home.
+        - 2 __MP-5__ on roof. (use grill to get on wall)
+      - Friday [VERIFIED]
+        - __Medkit__ in a trashcan near home loading zone.
+        - 5 __Dog Treat__, __Shotgun__, __Medkit__ and __Brass Knukles__ in home.
+        - __Sniper Rifle__ and [48 !!!] __Grenade__ on roof.
+  - Office Complex [DONE,VERIFIED]
+    - Under Bridge to _Chicken Estate_.
+      - Monday [VERIFIED]
+        - __Shovel__ at pile after the bridge.
+      - Tuesday (NONE) [VERIFIED] - ????
+      - Wednesday [VERIFIED]
+        - __Shovel__ at pile after the bridge.
+        - __Hatchet__ at tree on right further away.
+        - __Health Pipe__ in bushes after second bridge.
+      - Thursday [VERIFIED]
+        - __Shovel__ (at pile after the bridge)
+        - __Molotov Coctail__ (near ladders to secret stash).
+        - __MP-5__ near tree on right further away.
+        - __Health Pipe__ in a bushes behind 2 bridge. 
+      - Friday [VERIFIED]
+        - __Cow Head__ at right fence.
+        - __SavedOff__ in bushes after bridge.
+        - __Hatchet__ at tree on right further away.
+        - __Health Pipe__ in a bushes behind 2 bridge. 
+        - __Garden Scissors__ in bushes at end.
+    - Secret stash after wooden ladder under a bridge
+      - Monday [VERIFIED]
+        - 3 __Medkit__ and __Armor__.
+      - Tuesday [VERIFIED]
+        - __80$__, __Armor__, __Health Pipe__ and __Shotgun Ammo__.
+      - Wednesday [VERIFIED]
+        - __Armor__, __M-16 Ammo__ and 2 __Scissors Pack__.
+      - Thursday [VERIFIED]
+        - 4 __Grenade__, 3 __Molotov Coctail__, __Armor__ and __Grenade Launcher__.
+      - Friday
+        - __Rocket Fuel__ and __Armor__.
+    - Non RWS Office (Split into 2 offices?)
+      - Monday [VERIFIED] -??? (1 floor)
+        - __ATF__, __Shotgun__ and __Brass Knuckles__ at first floor office.
+        - __Gasoline Tank__ under edge ladder.
+        - __M-16__ on second floor.
+        - 2 __M-16__, __Shotgun__ and __Gasoline Tank__ at big office close to parking.
+      - Tuesday [VERIFIED] -??? (1 First)
+        - __ATF__, __M-16__ at 1 floor office.
+        - __Gasoline Tank__ under edge ladder.
+        - __2 Molotov Coctails__ and __Scissors__ on 2 floor.
+        - __M-16__, __Shotgun__, __MP-5 Ammo__ and __Gasoline Tank__ at big office close to parking.
+      - Wednesday [VERIFIED] - ??? (1 floor)
+        - __ATF__, __Brass Knuсkles__ (???????) and __10$__ at 1 floor office.
+        - __Gasoline Tank__ under edge ladder.
+        - __M-16__, __Flamethrower__, 4 __Grenades__ and __Baseball Bat__ on 2 floor.
+        - 2 __M-16__, __Sniper Rifle__, __Molotov Coctail__, __Glock Ammo__, __MP-5 Ammo__ and __Gasoline Tank__ at big office close to parking.
+      - Thursday [VERIFIED]
+        - __ATF__, __M-16__, __Hummer__, __Shotgun__ and __Sniper Rifle__ (right wing) at 1 floor office.
+        - __Gasoline Tank__ under edge ladder.
+        - __Scissors__, __Flamethrower__, 2 __Molotov Coctail__ and __Baseball Bat__ on 2 floor.
+        - 2 __M-16__, __Molotov Coctail__, __Glock Ammo__, __Machete__, and __Gasoline Tank__ at big office close to parking.
+      - Friday [VERIFIED]
+        - __ATF__, __Hammer__, __Brass Knuсkles__ and __20$__ at 1 floor office.
+        - __Gasoline Tank__ under edge ladder.
+        - __M-16__ and __Flamethrower__ on 2 floor.
+        - __M-16__, __Sniper Rifle__ and __Gasoline Tank__ at big office close to parking.
+    - RWS Office (TODO Split w Backyard)
+      - Monday [VERIFIED]
+        - __M-16__ at entrance behind reception table.
+        - __90$__ at secret room in right wing.
+        - 2 __Medkit__ in second left room in left wing.
+        - __M-16__, __Pistol__ and __Gasoline Tank__ at table in back.
+        - After back exit turn left walk and get 2 __M-16 Ammo__.
+        - __Fish Locator__ in and __Butterfly Knife__ behind a trash can near back-exit.
+        - 2 __Medkit__ behind to plastic box near street exit.
+        - __Pistol__ in a wooden hut opposite them.
+      - Tuesday [VERIFIED]
+        - __Gasoline Tank__ in right wing conference room.
+        - __Garden Scessors__, __M-16__ and __Shotgun__ at secret room in right wing.
+        - __Scessors__ in Vince office.
+        - __M-16__ in back.
+        - After back exit turn left walk and get 2 __M-16 Ammo__, 4 __Grenade__ and __Molotov Coctail__.
+        - __Catnip__ in a trash can near back-exit.
+        - 2 __Medkits__ behind to plastic box near street exit
+        - 5 __Dog Food__ and __Pistol__ in a wooden hut opposite them.
+      - Wednesday [VERIFIED]
+        - 4 __Grenades__ in right wing conference room.
+        - 3 __Molotov Coctail__ and __Gasoline Tank__ in right wing secret room.
+        - __Fish Locator__ in left wing left coridors.
+        - __M-16__ in back.
+        - After back exit turn left walk and get __M-16 Rounds__ and 8 __Grenades__.
+        - 1 __Fish Locator__ in and __Butterfly-knife__ behind a trash can near back-exit.
+        - 2 __Medkits__ (around) and __Molotov Coctail__ (in) plastic box near street exit
+      - Thursday [VERIFIED]
+        - __Molotov Coctail__ in right wing conference room.
+        - 3 __Cats__, 2 __Catnip__ and __Garden Scissors__ in right wing secret room.
+        - __Armor__ in right side on left wing.
+        - __Rocket Launcher__ in Vince office.
+        - __Butterfly-Knife__ at toilet )(???????)
+        - __M-16__ in back.
+        - After back exit turn left walk and get __M-16 Rounds__, __Molotov Coctail__ and __Rocket Fuel__.
+        - __Catnip__ in a trash can near back-exit.
+        - 2 __Medkit__ behind to plastic box near street exit.
+        - 4 __Grenades__ in a plastic box opposite them.
+      - Friday [VERIFIED]
+        - __Gasoline Tank__ and 4 __Grenades__ in right wing room.
+        - __Napalm__ in right wing secret room.
+        - __Armor__ (on documents closed) in right side on left wing.
+        - 2 __Medkits__ in second left room in left wing.
+        - __M-16__ in back.
+        - After back exit turn left walk and get __M-16 Rounds__, 4 __Grenades__ and 2 __Rocket Fuel__.
+        - 1 __Fish Locator__ in and __Butterfly-knife__ behind a trash can near back-exit.
+        - 2 __Medkits__ behind to plastic box near street exit.
+        - 5 __Dog Food__ in a wooden hut opposite them.
+    - Unfinished House
+      - Monday [VERIFIED]
+        - 2 __Pistol__, __Medkit__ and __Fish Locator__ on second floor.
+        - __Baseball Bat__ at roof stash.
+      - Tuesday [VERIFIED]
+        - 2 __Pistol__ and __Brass Knuckles__.
+        - __Glock__ at trash can nearby.
+        - 4 __Grenade__ and 3 __Dynamite__ at roof stash.
+        - 3 __Dynamite__ behind house.
+      - Wednesday [VERIFIED]
+        - __Glock__ at trash can nearby. 
+        - __Glock Ammo__ at bed. 
+        - 8 __Grenade__, 6 __Dynamite__, __Health Pipe__ and __Grenade Launcher__ at roof stash.
+        - 3 __Dynamite__ behind house.
+      - Thursday [VERIFIED]
+        - __brass_knuckles__ on table at 1 floor.
+        - __Glock Ammo__ and __Fish Locator__ at bed.
+        - 12 __Grenade__, 9 __Dynamite__, __Health Pipe__ at roof stash (through window).
+        - __Scythe__ and 3 __Dynamite__ behind house.
+      - Friday [VERIFIED]
+        - __Chainsaw__ at trash can nearby. 
+        - 12 (17!!!!) __Grenade__, 9 __Dynamite__, __Health Pipe__ and __Grenade Launcher__ at roof stash.
+        - __Scythe__ and 3 __Dynamite__ behind house.
+  - Chicken Estate [DONE,VERIFIED]
+    - Beware Dog House (1-2 Hobos)
+      - Monday (NONE)  [VERIFIED]
+      - Tuesday [VERIFIED]
+        - 3 __Dynamite__ in external toilet.
+      - Wednesday (NONE) [VERIFIED]
+      - Thursday [VERIFIED]
+        - __Baseball Bat__ at crashed car near.
+      - Friday (NONE) [VERIFIED]
+    - Close (Empty) House (Shitload of talibans???)
+      - Monday [VERIFIED]
+        - __Armor__ at second room.
+        - 2 __M-16 Ammo__ at roof.
+      - Tuesday [VERIFIED]
+        - __Scissors__ at storage room.
+        - __Health Pipe__ on roof.
+      - Wednesday [VERIFIED]
+        - 2 __M-16 Ammo__ at dining table.
+        - __Rifle Ammo__ at roof.
+      - Thursday [VERIFIED]
+        - __Molotov Coctail__ and 4 __Grenade__ at dining table.
+        - __Fish Locator__ and 6 __Dynamites__ at roof.
+      - Friday [VERIFIED]
+        - 3 __Molotov Coctail__ and 8 __Grenade__ at table.
+        - 9 __Dynamite__ and __Catnip__ on roof.
+    - Gamer House
+      - Monday [VERIFIED]
+        - NONE
+      - Tuesday [VERIFIED]
+        - __Pizza__ at table.
+      - Wednesday [VERIFIED]
+        - 2 __Donut__.
+      - Thursday [VERIFIED]
+        - __Fast Food__.
+      - Friday [VERIFIED]
+        - __Medkit__.
+    - Next Big House also with PC but 2-floored (SWATs)
+      - Monday [VERIFIED]
+        - 2 __Shotgun Ammo__ at second floor.
+      - Tuesday [VERIFIED]
+        - 3 __Donut__ at first floor.
+        - __M-16__ and __M-16 Ammo__ on table at second floor.
+      - Wednesday [VERIFIED]
+        - __Medkit__ and 27 (!) __Grenade__ at second floor.
+      - Thursday [VERIFIED]
+        - 3 __Donut__ (on a table at 1 floor), __Shotgun__, 2 __Sniper Rounds__ and __Rocket Fuel__ at 2 floor.
+        - __Hatchet__ behind house.
+      - Friday [VERIFIED]
+        - 2 __Molotov Coctails__, __Medkit__, 4 __Grenades__, __Baseball Bat__, __Napalm Ammo__ and __Shotgun Shells__ at 2 floor.
+    - Condemnation House
+      - Monday [VERIFIED] - ?? Knuckles (1), Buuterfly (2)
+        - __Butterfly Knife__ and __Medkit__ on dining table at first floor.
+        - __Butterfly Knife__ at second floor.
+        - __Pirania Plugin__ at beam near roof  (use crates at middle to reach).
+      - Tuesday [VERIFIED]
+        - __Butterfly Knife__ and __Health Pipe__ on dining table at first floor. __Brass Knuckles__ near exit.
+        - __Pirania Plugin__ at beam near roof  (use crates at middle to reach).
+      - Wednesday [VERIFIED]
+        - __Butterfly Knife__ and __Catnip__ on tables at first floor.
+        - __Butterfly Knife__ at second floor.
+        - __Pirania Plugin__ at beam near roof  (use crates at middle to reach).
+      - Thursday [VERIFIED]
+        - __Brass Knuckles__, __Hummer__, 3 __Dog Treat__, __Butterfly Knife__ (1 floor) , __Flamethrower__ (bathroom) and __Glock Ammo__ (on table).
+        - __Pirania Plugin__ at beam near roof  (use crates at middle to reach).
+      - Friday [VERIFIED]
+        - __Butterfly Knife__, 2 __Health Pipe__ and __Brass Knuckles__ (1 floor), __Butterfly-Knife__, __Chainsaw__ (bathroom) and __MP-5 Ammo__ on second floor.
+        - __Pirania Plugin__ at beam near roof  (use crates at middle to reach).
+    - Watertank
+      - Monday (NONE) [VERIFIED]
+      - Tuesday (NONE) [VERIFIED]
+      - Wednesday (NONE) [VERIFIED]
+      - Thursday (NONE) [VERIFIED]
+      - Friday [VERIFIED]
+        - __Scythe__ behind it.
+    - Haters home
+      - Monday [VERIFIED]
+        - 2 __Pistol__ on table in left room.
+        - 2 __Medkit__ on table in right room.
+      - Tuesday [VERIFIED]
+        - __Shotgun__ in a left room.
+        - 2 __Medkit__ on table in right room.
+      - Wednesday [VERIFIED]
+        - __M16__ at left room.
+        - 2 __Medkit__ on bed in right room.
+        - __Flamethrower__ at bathroom.
+      - Thursday [VERIFIED]
+        - 2 __Medkits__, __MP-5__ and __Armor__.
+      - Friday [VERIFIED]
+        - 12 __Dynamite__, 2 __Medkit__, 2 __Rifle Ammo__ and __Scissors__.
+    - Cat Lovers Home
+      - Monday [VERIFIED]
+        - 4 __Cats__.
+      - Tuesday [VERIFIED]
+        - 4 __Cats__.
+      - Wednesday [VERIFIED]
+        - 4 __Cats__.
+        - __Flamethrower__ at bathroom.
+      - Thursday [VERIFIED]
+        - 4 __Cats__.
+      - Friday [VERIFIED]
+        - 4 __Cats__.
+    - Big Middle House with cops
+      - Monday [VERIFIED]
+        - 3 __Donut__, __Pistol__ at first floor.
+        - 2 __Pistol__ on second floor.
+      - Tuesday [VERIFIED]
+        - __Glock Ammo__ and __Shotgun__ at first floor.
+        - 2 __Pistol__, 2 __Glock__ and __Shotgun Ammo__ at second floor.
+      - Wednesday [VERIFIED]
+        - Cops party near house! 4 __Pizza__, 4 __Fastfood__, 8 __Donut__.
+        - __M-16__ (on table), 3 __Donut__ (on dining table), __MP5 Ammo__ and 2 __Glock Ammo__ (on table near window) at first floor.
+        - 2 __Glock__, 2 __Pistol__ and __MP5 Ammo__ at second floor.
+      - Thursday [VERIFIED]
+        - 3 __Glock Ammo__, __MP5 Ammo__ and __Sniper Rifle__ (1 floor) 
+        - 2 __Pistol__, __MP5__, __Glock__, __Rifle Ammo__ and __Flamethrower__ (bathroom) on second floor.
+      - Friday [VERIFIED]
+        - 3 __Donut__ and 3 __MP5 Ammo__ at first floor.
+        - __Rocket Launcher__ (near washing mashines) at first floor. 
+        - 2 __Pistol__, __MP5__,  and __Rocket Fuel__ at second floor.
+        - __Flamethrower__ in a bathroom.
+    - Fenced Maniac House
+      - Monday [VERIFIED]
+        - __Shockrocket__ in house.
+      - Tuesday [VERIFIED]
+        - __Showel__ near coffin behind house.
+      - Wednesday [VERIFIED]
+        - 3 __Dynamite__ behind house.
+      - Thursday [VERIFIED]
+        - 6 __Dynamite__ behind house.
+      - Friday [VERIFIED]
+        - 9 __Dynamite__ behind house.
+    - Banner Home
+      - Monday
+        - __Brass Knuckle__ and __Health Pipe__ on a table.
+      - Tuesday [VERIFIED]
+        - __Health Pipe__ on refrigirator.
+      - Wednesday [VERIFIED]
+        - __Health Pipe__ at conditioner.
+      - Thursday [VERIFIED]
+        - __Health Pipe__ in trashcan at bathroom.
+      - Friday [VERIFIED]
+        - __Health Pipe__ of fireoven.
+  - Greenbelt [DONE,VERIFIED]
+    - Watertank
+      - Monday [VERIFIED]
+        - 2 __Medkit__ on top.
+        - __Pistol__ and 3 __Dynamite__ on close air pipes.
+      - Tuesday [VERIFIED]
+        - __Pistol__, __Glock Ammo__ and 3 __Dynamite__ on close air pipes.
+      - Whensday [VERIFIED]
+        - __Pistol__, __Glock Ammo__ and 3 __Dynamite__ on close air pipes.
+      - Thursday [VERIFIED]
+        - SWAT on top of a tank.
+        - __Pistol__, __Glock Ammo__, __MP-5 Ammo__ and 6 __Dynamite__ on close air pipes.
+      - Friday [VERIFIED]
+        - SWAT on top of a tank.
+        - __Pistol__ and 6 __Dynamite__ on close air pipes. __Glock Ammo__ and __MP-5 Ammo__ in further pipes.
+    - Jacked IN/OUT (Can purchase __Health Pipes__ for 100$ * DAY_COUNT)
+      - Monday [VERIFIED]
+        - 2 __Medkit__ on a wall. __Butterfly-Knife__ at table.
+      - Tuesday [VERIFIED]
+        - 2 __Medkit__ on a wall. __Butterfly-Knife__ at table.
+      - Whensday [VERIFIED]
+        - 2 __Medkits__ an wall. __Butterfly-Knife__ at table.
+      - Thursday [VERIFIED]
+        - 2 __Medkits__ an wall. __Butterfly-Knife__ at table.
+      - Friday [VERIFIED]
+        - 2 __Medkit__ on a wall. __Butterfly-Knife__ at table.
+    - Paradise Times
+      - Monday [VERIFIED]
+        - __Health Pipe__ at metal cases at 1 floor.
+        - __Armor__ at 2 floor.
+        - __ATF__ at back near trash cans.
+        - __Fish Locator__ of roof.
+      - Tuesday [VERIFIED]
+        - __Catnip__ at metal cases.
+        - 2 __Medkit__ on roof.
+        - __Grenade Launcher__ at wall engravings.
+        - __Glock__ and __60$__ at second floor room.
+        - __ATF__ at back.
+      - Whensday [VERIFIED]
+        - __Fish Locator__ and __Machete__ at metal cases at first floor.
+        - __Glock__ and 4 __Pizza Slice__ at second floor room.
+        - __Grenade Launcher__ at wall engravings.
+        - __Sniper Rifle__ on roof.
+        - __ATF__ at back.
+      - Thursday [VERIFIED]
+        - __Rocket Fuel__ and __Machete__ at metal cases.
+        - __Glock__ and __Health Pipe__ at second floor room.
+        - __Grenade Launcher__ at wall engravings.
+        - __Health Pipe__ on roof.
+        - __ATF__ at back.
+      - Friday [VERIFIED]
+        - __Napalm Ammo__ and __Machete__ at metal cases.
+        - __Glock__ and __Catnip__ at second floor room.
+        - __Grenade Launcher__ at wall engravings.
+        - 2 __Medkits__ on roof.
+        - __ATF__ at back.
+    - Billboard (Napalm)
+      - Monday [VERIFIED]
+        - 2 __Pistol__ in trash box along the way to bank.
+      - Tuesday [VERIFIED]
+        - __Rifle Rounds__ on billboard (use ladder).
+        - __Shotgun__ and __Pistol__ in trash box along the way to bank.
+      - Whensday [VERIFIED]
+        - 2 __Rifle Rounds__.
+        - 2 __Pistol__ and __M-16__ in trash box along the way from bank.
+      - Thursday [VERIFIED]
+        - SWAT on billboard.
+        - __M-16__, __Pistol__ and 2 __Shotgun__ in trash box along the way from bank.
+      - Friday [VERIFIED]
+        - 2 __M-16__ and 2 __Pistol__ in trash box along the way from bank.
+    - Toilet
+      - Monday [VERIFIED]
+        - __Shotgun__ at left booth.
+      - Tuesday [VERIFIED] 
+        - (NONE)
+      - Whensday [VERIFIED]
+        - __Flamethrower__ and __Health Pipe__ at right booth.
+      - Thursday [VERIFIED]
+        - __Glock Ammo__ at right booth.
+      - Friday [VERIFIED]
+        - __Flamethrower__ at right booth.
+    - Bank
+      - Monday [VERIFIED]
+        - __ATM__ at entrance.
+        - __Newspaper__ at 2 floor.
+        - __Medkit__ (at cameras room), __Shotgun__ (between vending mashines) and __Pistol Ammo__ at inners 1 floor.
+        - __Medkit__, __10$__, and __Fish Locator__ at 2 floor.
+        - __M-16__ on table in a safe room.
+        - __200$__ in safe.
+        - 2 __M-16__, 3 __Pistol Ammo__ and __Gasoline Tank__ in secret room behind bookcase.
+      - Tuesday [VERIFIED]
+        - __ATM__ at entrance.
+        - __Donut__ at foyer second floor.
+        - __Medkit__ (at cameras room), __Shotgun__ (between vending mashines), __Brass Knukles__ (on sofa near wending machines) and __Pistol Ammo__ at inners first floor.
+        - __390$__ in safe.
+        - __Medkit__, __Glock__ (under table), __10$__ (second left room) and __Pistol__ (right room) at second floor.
+        - 2 __Rifle Ammo__, __Shotgun Ammo__, __Glock__, __Glock Ammo__, 2 __M-16 Ammo__, __MP-5 Ammo__ and 6 __Dynamite__ in secret room.
+      - Wednesday [VERIFIED]
+        - __ATM__ at entrance.
+        - __Medkit__, __Shotgun__, __Brass Knukles__ and 2 __Pistol Ammo__ at inners 1 floor.
+        - __390$__ in safe.
+        - __Medkit__, __Glock__, __Scissors__, __10$__ and __Baseball Bat__ at second floor.
+        - 2 __Rifle Ammo__, 2 __M-16__,  8 __Grenade__, __Glock__, __Glock Ammo__, __MP-5 Ammo__ and 15 __Dynamite__ in secret room.
+      - Thursday [VERIFIED]
+        - __ATM__ at entrance.
+        - __Medkit__ at foyer second floor. (Can bue __Medkit__ for __20$__)
+        - __Medkit__, __Shotgun__, __Brass Knukles__ and __Pistol Ammo__ at inners first floor.
+        - __Medkit__, __Glock__, __10$__, __Machete__ and __Shotgun Ammo__ at second floor.
+        - __790$__ in safe.
+        - Secret door behind bookshelf not working.
+      - Friday [VERIFIED]
+        - __ATM__ at entrance.
+        - __Medkit__, __Shotgun__, __Brass Knukles__ and 5 __Pistol Ammo__ at inners 1 floor. (TODO: Split me)
+        - __Medkit__, __Glock__, __10$__, __M-16 Ammo__ and __Machete__ at 2 floor.
+        - __1060$__ in safe.
+        - Secret door behind bookshelf not working.
+    - Billboard (Parents Will Die)
+      - Monday [VERIFIED]
+        - __Shotgun__ at billboard (use ladder).
+      - Tuesday [VERIFIED]
+        - __Rocket Launcher__ at neares loading zone.
+      - Whensday [VERIFIED]
+        - __Rifle Ammo__ at billboard (use ladder).
+        - __Rocket Launcher__ at neares loading zone.
+      - Thursday [VERIFIED]
+        - 2 __Rifle Ammo__ at billboard (use ladder).
+        - __Rocket Launcher__ at neares loading zone.
+      - Friday [VERIFIED]
+        - __Rocket Launcher__ at neares loading zone.
+    - Dig Site Near Toilet.
+      - Monday [VERIFIED]
+        - __Gasoline Tank__ behind crosses barrels.
+        - __Showel__ in hole.
+      - Tuesday [VERIFIED]
+        - __Gasoline Tank__ behind crosses barrels.
+        - __Showel__ on a hole.
+        - __Pistol__ in toilet in right booth.
+      - Whensday [VERIFIED]
+        - __Gasoline Tank__ at barrels.
+        - __Showel__ on a hole.
+      - Thursday [VERIFIED]
+        - __Gasoline Tank__ at barrels.
+        - __Showel__ on a hole.
+        - __Hammer__ in toilet left booth.
+      - Friday [VERIFIED]
+        - __Gasoline Tank__ at barrels.
+        - __Showel__ on a hole.
+    - Gasoline Storage (climb up right to Info)
+      - Monday [VERIFIED]
+        - __Gasoline Tank__ at bushes after blue toilet box (lowgrownd).
+        - 4 __Cats__ and 3 __Gasoline Tank__.
+      - Tuesday [VERIFIED]
+        - __Gasoline Tank__ at bushes after blue toilet box (lowgrownd).
+        - 3 __Cats__, 3 __Gasoline Tank__ and 6 __Dynamite__.
+      - Wednesday [VERIFIED]
+        - __Gasoline Tank__ at bushes after blue toilet box (lowgrownd).
+        - 15 __Dynamite__ and 6 __Molotov Coctail__. 3 __Cat__.
+      - Thursday [VERIFIED]
+        - __Gasoline Tank__ at bushes after blue toilet box (lowgrownd).
+        - 3 __Rocket Fuel__, 24 __Dynamite__ and __Cat__.
+      - Friday [VERIFIED]
+        - __Gasoline Tank__ at bushes after blue toilet box (lowgrownd).
+        - 3 __Rocket Fuel__, 30 __Dynamite__ and __Cat__.
+    - Info
+      - Monday [VERIFIED]
+        - __Catnip__, __Pihrania Plugin__ and __Medkit__ at second floor.
+      - Tuesday [VERIFIED]
+        - __Scissors__ at first floor.
+        - __Catnip__ and __Pirahnia Plugin__ at second floor.
+      - Wednesday [VERIFIED]
+        - __Baseball Bat__ under desk at first floor. 
+        - __Catnip__, 4 __Grenade__ and __Pirania Plugin__ at second floor.
+      - Thursday [VERIFIED]
+        - __Baseball Bat__ under desk at first floor. 
+        - __Catnip__ and __Pirania Plugin__ at second floor.
+        - __60$__ at second floor table.
+        - 2 __Rifle Ammo__ at second floor balcony.
+      - Friday[VERIFIED]
+        - __Baseball Bat__ under desk at first floor. 
+        - __Catnip__ and __Pirania Plugin__ at second floor.
+        - 2 __Medkits__ at second floor.
+    - Asylum (Entrance through sign side)
+      - Monday  [VERIFIED] - (??? CATNIP?, Glock???)
+        - __Medkit__ (1 floor), __Butterfly Knife__ (in a wall at first cell on 2 floor) and __M-16__ (second cell) at closest right house.
+        - __Gasoline Tank__ (at first cell on 2 floor) at farest right house.
+        - 2 __Gasoline Tank__ (in a fireplace), __M-16__ (on air conditioner in 2 floor stairs), __Shotgun__ (kitchen), 3 __Medkits__ (at basement) and __Pistol__ (on sofa in room with wheelchair) at left house.
+        - __Army Armor__ and __Fish Locator__ at left house roof. (HOW_TO?)
+        - 3 __Pizza__ at picnic after left house.
+      - Tuesday [VERIFIED]
+        - __Medkit__ (1 floor), __Garden Scissors__ (2 floor first cell), __M-16__ (second) and __Glock__ (third) at close right home.
+        - __Catnip__ behind ladder at farest right house first floor.
+        - __Gasoline Tank__ (first cell) and 3 __Dynamite__ (last cell) at farest right house second floor.
+        - 3 __Medkit__ (basement), __Glock__ (1 floor last cell), __M16__ (on conditioner pipes at ladder to second floor), __Pistol__ (on sofa in room with wheelchair) and __Shotgun__ (kitchen) in left home.
+        - __Pistol__ and __Shotgun__ at second floor in closest left home.
+        - __Army Armor__, __Chompy Plugin__ (at lightpost) and __Fish Locator__ at left house roof. (HOW_TO?)
+      - Wednesday [VERIFIED]
+        - __Medkit__ (1 floor sofa), 8 __Grenade__ (behind staircases), __Garden Scissors__ and __Hatchet__ (2 floor first cell wall), __M-16__ (second) and __Glock__ (third) at close right home.
+        - __Gasoline Tank__ (first cell) and 6 __Dynamite__ (third cell) at farest right house second floor.
+        - 3 __Dynamite__ in last toilet near basement ladder at left home.
+        - 3 __Medkit__ and __Hammer__ at left home basement.
+        - __M-16__ on conditioner pipes at ladder to second floor in closest left home.
+        - __Pistol__ and __Shotgun__ at second floor in left home.
+        - __Army Armor__, __Chompy Plugin__ (at lightpost) and __Fish Locator__ at left house roof. (HOW_TO?)
+      - Thursday [VERIFIED]
+        - __Medkit__ at sofa in close right home first floor.
+        - __Butterfly Knife__, __Hatchet__, __Garden Scissors__, __Scythe__ (first cell), __Glock Ammo__ (third cage) and __M-16__ (second cage) at closest right house second floor cells.
+        - 5 __Dog Treat__ behind ladder at second right home first floor.
+        - 12 __Dynamite__ (lasr cell) and __Gasoline Tank__ (first cell) at farest right home first floor cells.
+        - 2 __Gasoline Tank__ at left home fireplace at first floor.
+        - 3 __Dynamite__ in last toilet near basement ladder at left home.
+        - 3 __Medkit__ at left home basement.
+        - __Glock__ at last cell inleft home first floor.
+        - __M16__ on conditioner pipes at ladder to second floor in closest left home.
+        - __Pistol__ and __Shotgun__ at second floor in closest left home.
+        - __Army Armor__, __Chompy Plugin__ (at lightpost) and __Fish Locator__ at left house roof.
+      - Friday [VERIFIED]
+        - __Medkit__ (sofa) and 3 __Molotov Coctail__ (behind ladder) - first floor, __Butterfly Knife__, __Hatchet__, __Machete__, __Garden Scissors__ (first cell), __MP-5 Ammo__ (third) and __M-16__ (second cell) at closest right house.
+        - __Gasoline Tank__ (first cell) and 21 __Dynamite__ (last cell) at farest right house second floor.
+        - 3 __Dynamite__ in last toilet near basement ladder at left home.
+        - 3 __Medkit__ at left home basement.
+        - __M16__ on conditioner pipes at ladder to second floor in closest left home.
+        - __Pistol__ and __Shotgun__ at second floor in closest left home.
+        - __Army Armor__, __Chainsaw__, __Chompy Plugin__ (at lightpost) and __Fish Locator__ at left house roof.
+  - Ghetto [DONE,VERIFIED]
+    - House
+      - Monday [VERIFIED]
+        - __Medkit__ (bathroom), __Shotgun__ and __20$__ (table in wooden room) in house.
+      - Tuesday [VERIFIED]
+        - __Gasoline Tank__ at storage space.
+        - __Medkit__ (bathroom), __Shotgun__ and __20$__ (table in wooden room) in house.
+      - Wednesday [VERIFIED]
+        - __Gasoline Tank__ and __Shotgun__ at storage space.
+        - __Catnip__ at table in sleeping room.
+        - __Medkit__ (in bathroom), __Shotgun__ and __30$__ at table in wooden room.
+      - Thursday [VERIFIED]
+        - __Shootgun__ at storage space.
+        - __Catnip__ at table in sleeping room.
+        - __Medkit__ (in bathroom), __Shotgun__, __Shotgun Ammo__ and __40$__ at table in wooden room.
+      - Friday [VERIFIED]
+        - __Scythe__, __Shotgun__ and __Gasoline Tank__ at storage space.
+        - __Mad Cow Head__ in pot in kitchen.
+        - __Shotgun__, 2 __Shotgun Ammo__,  __Medkit__, 5 __Dog Treat__ and __40$__ inside.
+    - Police Deport
+      - Monday (None) [VERIFIED]
+      - Tuesday [VERIFIED]
+        - 3 __Dynamite__ near tree at left.
+        - __Glock Ammo__ in bushes to the right.
+      - Wednesday [VERIFIED]
+        - __Sawed Off__ at bushes at right side.
+        - 6 __Dynamite__ and __Hatchet__ near tree at left.
+      - Thursday [VERIFIED]
+        - __MP-5 Ammo__ in bushes to the right.
+        - 6 __Dynamite__ and __Hatchet__ near tree at left.
+      - Friday [VERIFIED]
+        - __MP-5 Ammo__ in bushes to the right.
+        - 9 __Dynamite__ and __Hatchet__ near tree at left.
+    - Police Car Station
+      - Monday [VERIFIED]
+        - 2 __Pistol__ and __Medkit__ inside garage.
+      - Tuesday [VERIFIED]
+        - __Armor__ and __Garden Scissors__ inside garage.
+        - __Chompy Plugin__ behind trash box.
+      - Wednesday [VERIFIED]
+        - __Armor__ and __Garden Scissors__ inside garage.
+        - __Chompy Plugin__ behind trash box.
+      - Thursday [VERIFIED]
+        - __Hatchet__ and __Army Armor__ inside garage.
+        - __Chompy Plugin__ behind trash box.
+      - Friday [VERIFIED]
+        - __Hatchet__ and __Army Armor__ inside garage.
+        - __Chompy Plugin__ behind trash box.
+    - 7th Haven 
+      - Monday [VERIFIED]
+        - 36 __Donuts__ and __ATM__ inside.
+      - Tuesday [VERIFIED]
+        - __Glock__ and 3 __Dynamite__ on roof.
+        - 36 __Donuts__ and __ATM__ inside.
+      - Wednesday [VERIFIED]
+        - 36 __Donuts__, __ATM__ and __Baseball Bat__ inside.
+        - __Glock__ and 6 __Dynamite__ on roof.
+      - Thursday [VERIFIED]
+        - 36 __Donuts__, __ATM__ and __Machete__ inside.
+        - __Glock__ and 6 __Dynamite__ on roof.
+      - Friday [VERIFIED]
+        - 36 __Donuts__, __ATM__ and __Machete__ inside.
+        - 9 __Dynamites__ and __Sawed Off__ on roof.
+    - Bante's Hotel
+      - Monday [VERIFIED]
+        - __M-16 Ammo__ (behind boxes at Emploee Room) and 3 __Medkits__ (1 at first room, 2 on wall near toilet) at first floor. 
+        - __Scissors__ (first room closet), __M-16 Ammo__ (at second room table), __10$__ (at bed in third room) and __Catnip__ (last room closet) at second floor.
+        - __Fastfood__ in a trash box behind.
+      - Tuesday [VERIFIED]
+        - __Fish Locator__, __Glock__ (behind boxes at Emploee Room), 3 __Medkits__ (1 at first room, 2 on wall near toilet) and  __Shotgun Ammo__ (second room) at first floor. 
+        - __Scissors__, __Catnip__, 5 __Dog Treat__ (in closet) and __Health Pipe__ (on bed) at first room of second floor.__Fish Locator__ (on table in second room) , __30$__ and __Health Pipe__ (on bed in last room) at second floor.
+        - 12 __Grenade__ in last room closet.
+        - __Fastfood__ in a trash box behind.
+      - Wednesday [VERIFIED]
+        - __Fish Locator__, __Glock__ (behind boxes at Emploee Room), 2 __Shotgun Ammo__ (last room) and 3 __Medkits__ (1 at first room, 2 on wall near toilet) at first floor.
+        - __Scissors__, __Catnip__, 5 __Dog Treat__ and __Hammer__ (in closet of first room), __Fish Locator__ (second room), __Health Pipe__ and __30$__ (third room)  at second floor.
+        - __Flamethrower__ (table) and __Catnip__ (closet) in last room.
+        - 2 __Fastfood__ in a trash box behind.
+      - Thursday [VERIFIED]
+        - __MP-5__, __Fish Locator__ (first room), __Armor__ and 3 __Medkit__ (2 in middle room) at first floor.
+        - __M-16__ (at bed), __Scissors__, __Hammer__, __Catnip__, 5 __Dog Treats__ (in closet) in first room on second floor. 
+          __Fish Locator__ (second room), __40$__ and  at second floor.
+        - __Flamethrower__ (on cabinet) and __Sniper Rifle__ (in closet) in last room.
+        - 2 __Fast Food__ in a trash box behind.
+      - Friday [VERIFIED]
+        - __MP-5__, __Fish Locator__ (Emploees only room), __Medkit__ and __Armor__ (1 room), 2 __Medkit__ (in middle room) at first floor. 
+        - __Scissors__, __Hammer__, __Catnip__ and 5 __Dog Treats__ (closet), 2 __M-16__ (on bed)  (1 room) __Fish Locator__ (2 room) and __140$__ (3 room) at second floor.
+        - __Flamethrower__ (at table), 12 __Grenade__, __Health Pipe__, __Armor__ and __Rocket Fuel__ (closet) in last room. (????)
+        - 3 __Fast Food__ in a trash box behind.    
+    - Trainwrek (enters from Bante Hotel side, counterclockwise)
+      - Monday [VERIFIED]
+        - 2 __Pistol__ and __Brass Knuckle__ at 1 house.
+        - __Butterfly-Knife__ (in window) and __Health Pipe__ in room on top of ladders.
+        - __Pizza__ on north train.
+        - 2 __Fastfood__ (at first floor), 4 __Grenade__ (under second floor), __Pistol__ and __Fast Food__ (top room) in ladders.
+        - 8 __Grenade__ at entrance near police dept.
+      - Tuesday [VERIFIED] 
+        - 2 __Pistol__ and __Brass Knuckle__ at 1 house.
+        - 2 __Medkits__ and __Health Pipe__ (inside), __Butterfly-Knife__ (in window) in room on top of right ladders.
+        - 8 __Grenade__ at entrance near police dept.
+        - __Medkit__ on north train.
+        - 2 __Fastfood__, __Shotgun Ammo__ and __Fish Locator__ at first floor of left ladders (in room with burning barrel).
+        - 8 __Grenade__ between floors in left ladders house.
+        - 2 __Shotgun Ammo__ in top floor in left ladders house.
+        - __Glock Ammo__ at middle left ladders house.
+        - __Medkit__ on a wall  at second floor of far ladder house.
+      - Wednesday [VERIFIED]
+        - __M-16__, 2 __Pistol__ and __Brass Knuckle__ at 1 house.
+        - __Glock Ammo__ at first floor of steel 2 floored house near.
+        - __Fast Food__ and __Butterfly-Knife__ (in window) in room on top of right ladders.
+        - 8 __Grenade__ at entrance near police dept.
+        - __Catnip__ on train.
+        - __Medkit__, __Rocket Fuel__ and __Armor__ at 2 floor of right corner ladder house.
+        - __Glock Ammo__ at middle left ladders house.
+        - 12 __Grenade__ between floors in left ladders house.
+        - 3  __Fastfood__, __Armor__, __Fish Locator__ and __Shotgun Ammo__ at first floor near burning barrel.
+        - 2 __M-16 Ammo__ in top floor in left ladders house.
+      - Thursday [VERIFIED]
+        - __Shotgun__, __M-16__ and __Brass Knuckle__ at 1 house.
+        - __Pizza__ and __Butterfly-Knife__ (in window) in room on top of right ladders.
+        - 16 __Grenade__ at entrance near police dept.
+        - __Rifle Ammo__ on north train.
+        - 2 __Rocket Fuel__, __Medkit__ and __Armor__ in a room at top of ladders (broken roof).
+        - 3 __Fast Food__, __Army Armor__, 2 __Shotgun Ammo__, __M-16__ and __Fish Locator__ at first floor of left ladders (in room with burning barrel).
+        - 16 __Grenade__ between floors in left ladders house.
+        - 3 __Napalm Ammo__ at second floor of left ladders.
+        - __Sniper Rifle__ in top floor in left ladders house.
+        - __Scythe__ behind this building (top floor).
+      - Friday [VERIFIED]
+        - __Glock__, __Shotgun__, __Shotgun Ammo__, __M-16__ and __Brass Knuckle__ at 1 house.
+        - __MP-5 Ammo__ at near shit. (top of ladders&&&)
+        - __Health Pipe__, __Butterfly-Knife__ (in window) and __Army Armor__ in a room at top of ladders.
+        - 24 __Grenades__ and __Grenade Launcher__ at entrance near police dept.
+        - __Catnip__ on north train __M-16__ on another one (????), __MP-5 Ammo__ at left rail.
+        - 4 __Fastfood__, 3 __M-16__, 2 __Shotgun Ammo__, __Army Armor__ and __Fish Locator__ at first floor of left ladders (in room with burning barrel).
+        - 12 __Grenade__ between floors in left ladders house.
+        - 5 __Napalm Ammo__ at second floor of left ladders.
+        - __Sniper Rifle__ and __Rifle Ammo__ in top floor in left ladders house.
+        - __Scythe__ behind this building (top floor).
+        - __Chainsaw__, 3 __Rocket Fuel__, __Medkit__ and __Armor__ in a room at top of ladders (broken roof).
+  - Police [DONE] (!!!! CASH , LOCATORS and MEDKITS miscount)
+    - Evidence Room
+      - Monday
+        - 1 __Pistol__ and 3 __Health Pipe__.
+      - Tuesday
+        - 1 __Pistol__ and 3 __Health Pipe__.
+      - Wednesday
+        - 1 __Pistol__ and 3 __Health Pipe__.
+      - Thursday
+        - 1 __Pistol__ and 3 __Health Pipe__.
+      - Friday
+        - 1 __Pistol__ and 3 __Health Pipe__.
+    - Canteen
+      - Monday
+        - 5 __Donut__.
+      - Tuesday
+        - 5 __Donut__.
+      - Wednesday
+        - 5 __Donut__.
+      - Thursday
+        - 5 __Donut__.
+      - Friday
+        - 5 __Donut__.
+    - Arsenal
+      - Monday
+        - 2 __M-16__, 6 __Pistol__, __Shotgun__, 4 __Grenades__, 3 __Dynamite__, __Armor__, __Gasoline Tank__, __Brass Knuckles__ and __Shockrocket__.
+      - Tuesday
+        - 2 __M-16__, 6 __Pistol__, 8 __Grenades__, 12 __Dynamite__,  __Gasoline Tank__, __Glock__, __Armor__, __Shotgun__, __MP-5__, and __Shockrocket__.
+      - Wednesday
+        - 2 __Gasoline Tank__, 3 __Shotgun__, 4 __M-16__, 6 __Pistol__, 18 __Dynamite__, 8 (!) __Grenade__, __Armor__, __Shockrocket__, __MP-5__, 2 __Glock__, __Baseball Bat__ and __Brass Knuckle__.
+      - Thursday
+        - 2 __Gasoline Tank__, 3 __Shotgun__, 4 __M-16__, 6 __Pistol__, 27 __Dynamite__, 20 __Grenade__, __Armor__, __Shockrocket__, 2 __MP-5__, 2 __Glock__, __Hammer__, __Sniper Rifle__, __Grenade Launcher__, __Rocket Launcher__,  and __Brass Knuckle__.
+      - Friday
+        - __Armor__, 4 __M-16__, 6 __Pistol__, 4 __Glock__, 2 __Shotgun__, 20 __Grenades__, 27 __Dynamite__,  2 __Gasoline Tank__, 2 __MP-5__,  __Brass Knuckles__, __Hammer__, __Machete__, __Sniper Rifle__, __Grenade Launcher__, __Rocket Launcher__, __Baseball Bat__, __Rifle Ammo__ and __Shockrocket__.
+    - 2 Floor
+      - Monday
+        - 4 __Fish Locator__, __Pizza__, __Fast Food__ and 2 __Donut__.
+      - Tuesday (!!!!!)
+        - 3 __Fish Locator__, __Pizza__ and 2 __Donuts__.
+      - Wednesday
+        - 4 __Fish Locator__, __Pizza__, __Fast Food__ and 2 __Donut__.
+      - Thursday 
+        - 4 __Fish Locator__, __Pizza__, __Fast Food__ and 2 __Donut__.  
+      - Friday
+        - 4 __Fish Locator__, __Pizza__, __Fast Food__ and 2 __Donut__.  
+    - 3 Floor
+      - Monday (!!!)
+        - 2 __Fish Locator__ (!!!!), 5 __Pizza__, __Buton__, 12 __Donuts__, __20$__ (!!!) and 2 __Medkits__.
+        - __Glock__, __Pistol__, __Police Uniform__, __Medkit__, __Health Pipe__, __30$__  in locker room.
+      - Tuesday
+        - 3 __Fish Locator__, 5 __Pizza__, __Buton__, 12 __Donuts__, __20$__ and 2 __Medkits__.
+        - __Glock__, __Pistol__, __Police Uniform__, __Medkit__, __Health Pipe__, __50$__  in locker room.
+      - Wednesday
+        - 3 __Fish Locator__, 5 __Pizza__, __Buton__, 12 __Donuts__, __40$__, __Fast Food__ and 2 __Medkits__.
+        - __Glock__, __Pistol__, __Police Uniform__, __Medkit__, __Health Pipe__ and __50$__  in locker room.
+      - Thursday
+        - 3 __Fish Locator__, 5 __Pizza__, __Buton__, 12 __Donuts__, __40$__, __Fast Food__ and 3 __Medkits__.
+        - __Glock__, __Pistol__, __Police Uniform__, __Medkit__, __Health Pipe__, __50$__  in locker room.
+      - Friday
+        - 2 __Fish Locator__, 5 __Pizza__, __Buton__, 12 __Donuts__, __40$__, __Health Pipe__ and 3 __Medkits__.
+        - __Glock__, __Pistol__, __Police Uniform__, __Medkit__, __Health Pipe__, __30$__  in locker room.
+  - Industry district  
+    - Mining Site
+      - Monday [VERIFIED]
+        - (NONE)
+      - Tuesday [VERIFIED]
+        - 3 __Dynamite__ in cart.
+      - Wednesday [VERIFIED]
+        - __Sniper Rifle__ on watertank. 6 __Dynamite__ in a cart.
+      - Thursday [VERIFIED]
+        - 9 __Dynamite__ (in cart) and __Hammer__ (near closed mine).
+      - Friday [VERIFIED]
+        - 12 __Dynamite__ (in cart) and __Hammer__ (at mine after cart).
+    - Forth Hole Mining (GARD_SCISS ???)
+      - Monday [VERIFIED]
+        - __Shotgun__ on wooden palletes near crane.
+      - Tuesday [VERIFIED]
+        - 2 __M-16 Ammo__ and 2 __Shotgun Shells__ on wooden palletes near crane.
+        - __Glock__ in smokepipe on roof.
+      - Wednesday [VERIFIED]
+        - __Garden Scissors__ in bushes near air conditioners at parking. 
+        - __Armor__ (near air conditioner) and 9 __Dynamite__ (smoke pipe) on roof.
+      - Thursday [VERIFIED]
+        - __Garden Scissors__ in bushes near air conditioners at parking. 
+        - __Glock__ (in smokepipe), __Fish Locator__ and __Scythe__ on roof.
+      - Friday [VERIFIED]
+        - __Catnip__, __Scythe__ and 9 __Dynamite__ (smoke pipe) on roof.
+    - Broken shit with conditioners
+      - Monday [VERIFIED]
+        - __Showel__ in middle earth pile.
+        - __Health Pipe__ on plastic basket.
+        - 2 __Medkit__ and __Butterfly-Knife__ at 2 floor.
+        - Climb on air conditioners to get __Army Armor__.
+        - Climb wires to get __Pirahnia Plugin__.
+      - Tuesday [VERIFIED]
+        - __Showel__ in middle earth pile.
+        - 2 __Medkit__, __Helth Pipe__ and __Butterfly-Knife__ at 2 floor.
+        - __Glock Ammo__ on shelf in undamaged building. 
+        - Climb on air conditioners to get __Army Armor__ and __Glock Ammo__.
+        - Climb wires to get __Pirahnia Plugin__.
+      - Wednesday
+      - Thursday
+      - Friday
+        - __Health Pipe__ on plastic basket.
+        - 2 __Medkit__, __Machete__ and __Butterfly-Knife__ at 2 floor.
+        - Climb on air conditioners to get __MP-5__ and __Army Armor__.
+    - Yellow-Purple Building
+      - Monday [VERIFIED]
+        - __Brass Knuckle__ at yellow 1 level.
+      - Tuesday [VERIFIED]
+        - __Glock__ (behind table in first room) and __Butterfly-Knife__ (on table) at yellow 1 level.
+        - __Glock Ammo__ in a shelf in 2 floor. 
+      - Wednesday
+      - Thursday
+      - Friday
+    - Red Broken Stuff
+      - Monday [VERIFIED] (??? flameth location check)
+        - __Medkit__ at 2 floor of destroed building.
+      - Tuesday [VERIFIED]
+        - 2 __Medkit__ at 2 floor of destroed building. __Glock Ammo__ on third.
+        - __Flamethrower__ on stone near ladders.
+      - Wednesday
+      - Thursday
+      - Friday   
+  - Obligatory Sewer Complex
+    - Home entrance Pipe
+      - Monday [VERIFIED]
+        - __Armor__ and __Pistol__ near dead cop.
+    - Pipes
+      - Monday [VERIFIED]
+        - __Medkit__ at bottom near left down ladder.
+    - Door with talibs (poison barrels)
+      - Monday [VERIFIED]
+        - 2 __Pistol__ at poison barrels.
+    - Toxic Refinery I floor
+      - Monday [VIRIFIED]
+        - 2 __Medkit__ on further wall.
+    - Toxic Refinery II floor
+      - Monday [VIRIFIED]
+        - 32 __Pizza__ and __Fastfood__ after stairs.
+    - Sewer Control Center entrance (1 floor)
+      - Monday [VERIFIED]
+        - 3 __Medkit__ (1 at door, 2 on wall in room).
+    - Storage Room
+      - Monday [VERIFIED]
+        - 3 __Pistol__, 12 __Grenade (on boxes) and __Gasoline Tank__.
+    - Tora Bora Control balcony
+      - Monday [VERIFIED]
+        - 2 __Medkit__ at lever controls.
+
+- Tuesday +
+  - Library [DONE]
+    - Tuesday Only
+      - __Pistol__, __Armor__, __Pizza__ at library escape path.
+      - 2 __Medkit__, 12 __Grenade__ and __Army Armor__ at secret entrance (also with immortal doggy) behind left ladder.
+  - East Mall
+    - Барахолка (2 floors)
+      - Tuesday [VERIFIED]
+        - __Shotgun__ (second Floor) and __20$__ (first floor).
+    - Closed fo renovo
+      - Tuesday [VERIFIED]
+        - __Glock Ammo__.
+    - ATF R Us
+      - Tuesday [VERIFIED]
+        - __ATF__ at entrace, 
+        - 6 __Donut__ and __Brass Knuckle__ in backroom with cops. 
+        - 3 __Dynamite__and 3 __Gasoline Tank__ in closed room (shoot panel to unlock).
+        - 8 __Pistol__, 4 __Shotgun__, 4 __Shotgun Shells__ and 5 __Pistol Ammo__ on shelfs (shoot panel in closed room to unlock).
+    - Personel Only Tunnels
+      - Tuesday[VERIFIED]
+        - __M 16__ on the way.
+        - __Fish Locator__ on books near _Bookstore_ entrance.
+        - __M 16 Ammo__ and __Glock Ammo__ on shelfs near _Bookstore_ entrance.
+    - Pornstrome
+      - Tuesday [VERIFIED]
+        - __Armor__ and __Butterfly-Knife__ on manequins behind glass at entrace.
+        - __50$__ in middle cabin.
+  - West Mall
+    - Coffeshop
+      - Tuesday
+        - __Health Pipe__.
+    - Secret Fenced
+      - Tuesday
+        - 8 __Grenades__, 6 __Dynamite__, __Molotov Coctail__, __Armor__, 5 __Pistol Ammo__, __Health Pipe__ and __Fish Locator__.
+    - Cats && Dogs
+      - Thursday
+        - __Scessors__.
+    - Donuts
+      - Thursday
+        - 8 __Donuts__.
+    - Donuts
+      - Thursday
+        - 13 __Donuts__.
+    - Donuts
+      - Thursday
+        - 11 __Donuts__.
+    - Pizza
+      - Thursday
+        - 10 __Pizza__.
+    - Fast Food
+      - Thursday
+        - 10 __Fast Food__.
+    - Sushi
+      - Thursday
+        - 2 __Medkit__.
+  - Trainyard [TODO]
+    - Sexxico Gas Station
+      - Tuesday [VERIFIED]
+        - __Medkit__ and __Gasoline Tank__ inside storage room.
+        - __Butterfly-Knife__ in darts in garage.
+        - __20$__ at cashier desk. 
+        - __Glock__, 3 __Pistol Ammo__ and __Shotgun Shells__ on roof.
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - 2 __Medkit__ and __Brass Knuckles__ inside storage room.
+        - __Butterfly-Knife__ in darts in garage.
+        - 2 __Medkit__ and __70$__ at cashier desk. 
+        - __MP-5__, 2 __M-16 Ammo__, __Shotgun Shells__, __Rifle Rounds__ and __Glock Ammo__ on roof.
+        - __Hatchet__ in palm tree near _Office Complex_ loading zone.
+    - Smeggins
+      - Tuesday [VERIFIED]
+        - __Glock Ammo__ at 1 roof near south barrier.
+        - __Rare Shotgun__ and __Shotgun Ammo__ at 2 roof.
+        - __MP-5__ at 3 roof.
+        - 3 __Medkit__ and 3 __Dynamite__ inside truck.
+        - __Pistol__ in 2 checkpoint guard hut.
+        - __M-16 Ammo__ at crates under ventilation.
+        - __MP-5__ on blue container in inner storage room.
+        - __Brass Knuckless__ and __Locator Plugin__ at office room.
+      - Wednesday
+      - Thursday
+      - Friday
+        - __Machete__ and __Glock Ammo__ at 1 roof near south barrier.
+        - __Rare Shotgun__ and 6 __Shotgun Ammo__ at 2 roof.
+        - 3 __MP-5__ at 3 roof.
+        - __Armor__ and 3 __Dynamite__ inside truck.
+        - __Napalm__ in 2 checkpoint guard hut.
+        - __Scythe__ behind container near 2 checkpoint.
+        - __Grenade Launcher__ and __Catnip__ at crates under ventilation.
+        - 3 __Health Pipe__ (1 on and 2 in) blue container in inner storage room.
+        - __Baseball Bat__ and __Locator Plugin__ at office room.
+        - __Machete__ at large office.
+    - Train depo  - 2 buildings!
+      - Tuesday [VERIFIED]
+        - __Flamethrower__ at corner near K.W.I.T.C .
+        - __Fish Locator__ (on ceeling in a room with boxes), __Shovel__ (in pile at 2 floor) and __Medkit__ in storage house near _Chirch_ loading zone (with train).
+        - __Shotgun__ in next building (with boxes).
+        - __Pistol__ and __M-16__ at containers near smeggins.
+      - Wednesday
+      - Thursday
+      - Friday
+        - __Cow Head__ in empty cargo train.
+        - __MP-5__, __Health Pipe__, __Shovel__ (in pile at 2 floor) and 3 __Medkit__ in storage house near _Chirch_ loading zone (with train).
+        - __Pistol__ and __M-16__ at containers near smeggins.
+        - __Rocket Launcher__ in containers area (at top)
+    - Paradise Mall Parking/Trashcans
+      - Tuesday [VERIFIED]
+        - __Health Pipe__, __Gasoline Tank__, 2 __Pistol__, __Molotov Coctail__ (trashcan) and __Glock Ammo__ at trash can.
+        - __130$__, __Chomper Plugin__ and 3 __Dynamite__ at conditioner vents.
+        - __10$__, 2 __Gasoline Tank__ and __Armor__ in fenced tech area below parking. Blow fence w explosives.
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - __Rocket Launcher__, __Locator Plugin__ and 9 __Dynamite__ at conditioner vents.
+        - __Hammer__, __Catnip__, __Locator Plugin__, __10$__, __Gasoline Tank__ and __Armor__ in fenced tech area below parking. Blow fence w explosives.
+        - __Health Pipe__ and __Glock Ammo__ at trash can. (???? MOLOTOW)
+  - Chirch & Cementary [TODO] - MEDKITSSSS
+    - Parking & Further
+      - Tuesday [VERIFIED]
+        - 2 __Fastfood__ behind container near loading zone.
+        - 3 __Medkit__ in cargo crate. -???
+        - __Rifle Ammo__, 2 __Pizza__ and 3 __Medkit__ at picnic at end.
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - __Catnip__ behind container near loading zone.
+        - 4 __Rifle Ammo__, 6 __Pizza__, 3 __Medkit__, __Armor__ and __Grenade Launcher__ at picnic at end.
+    - Entrance
+      - Tuesday [VERIFIED]
+        - __Health Pipe__ in flowering right.
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - __Garden Scissors__ and __Health Pipe__ in flowering left and right.
+    - Garden
+      - Tuesday [VERIFIED]
+        - __Shotgun__ at south-west corner.
+        - __Machete__ near central tree.
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - __Machete__ in central tree.
+        - __MP-5__ at last column in right (east) side.
+    - Cementary
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - __Hatchet__ in a tree near entrace.
+        - __SawedOff__ at bridge anchors (right).
+        - __Glock__ at blue basket in rails exits (???)
+        - __Showel__ at _staple gun_ grave.
+        - __Sniper Rifle__ near _Pidgeon_ grave (further up from dude father grave).
+        - __Machete__ near _Postal Storyline_ grave (behind cementary).
+        - __Baseball Bat__ and __MP-5__ ammo in cementary.
+        - __Glock__ at toxic waste south entrance.
+        - __Mad Cow Head__ near toxic pool.
+        - 3 __Medkit__ (in) and 2 __Gazoline Tank__ (behind wall) a toxic waste building.
+    - Entrace hall
+      - Tuesday [VERIFIED]
+        - 3 __Dynamite__ in fountain.
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - __Chainsaw__ in fountain.
+    - Inner Hall [VERIFIED]
+      - Tuesday [VERIFIED]
+        - __M-16__ at balcony.
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - 24 __Dynamite__ at speaker desk.
+    - Office Room
+      - Tuesday [VERIFIED]
+        - 3 __Medkit__, __Glock Ammo__ and __Scissors__.
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - __Brass Knuckle__ and __MP-5 Ammo__ in.
+    - Pillar Hall
+      - Tuesday - NONE [VERIFIED]
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - __Hammer__ after first pillar.
+    - Tables Hall
+      - Tuesday [VERIFIED]
+        - 3 __Medkit__ on table at ladder toward Confession Room.
+      - Wednesday
+      - Thursday
+      - Friday [VERIFIED]
+        - 3 __Medkit__ on table at ladder toward Confession Room.
+  - Elefant Farm [DONE,VERIFIED]
+    - Grill & Parking
+      - Tuesday [VERIFIED]
+        - 5 __Fast Food__ at grill.
+      - Wednesday [VERIFIED]
+        - 5 __Fast Food__ at grill.
+      - Thursday [VERIFIED]
+        - 5 __Fast Food__ at grill.
+      - Friday [VERIFIED]
+        - 5 __Fast Food__ at grill.
+- Wednesday +
+  - Clinic [TODO]
+    - Closed Restaurant
+      - Wednesday [TODO]
+      - Thursday [TODO]
+      - Friday [VERIFIED]
+        - 3 __Fast Food__ inside.
+    - Whore and Sailor
+      - Wednesday [TODO]
+      - Thursday [TODO]
+      - Friday [VERIFIED]
+        - __Garden Scissors__ (in),  2 __Rocket Fuel__, 6 __Dynamite__, __MP-5 Ammo__ and __Glock Ammo__ (behind left side) trash can.
+    - Hobo Brewery Werehouse (hobos!)
+      - Wednesday [TODO]
+      - Thursday [TODO]
+      - Friday [VERIFIED]
+        - __Flamethrower__ and __Health Pipe__ (in a pit benith police car).
+        - __Shotgun__ at end of metal floor at loading room.
+        - __Scissors__ at table in entrance room.
+        - __Butterfly Knife__ in shelf in room with shellfs and tables.
+        - 2 __M-16__, __Shotgun__, 2 __Pistol__, 6 __Glock Ammo__, 5 __MP-5 Ammo__, __Pistol Ammo__, 8 __Grenade__, __Rocket Fuel__, 2 __Napalm Ammo__, __Sniper Rifle__ and __Napalm__ in storage room.
+    - Useless Cars
+      - Wednesday [TODO]
+      - Thursday [TODO]
+      - Friday [VERIFIED]
+        - __Hatchet__ on car pile.
+        - __Shotgun__ inside repair facility.
+        - 4 __Grenades__, 2 __MP-5 Ammo__ and 2 __Glock Ammo__ on near roof.
+    - Polar Bear Control  
+      - Wednesday [TODO]
+      - Thursday [TODO]
+      - Friday [VERIFIED]
+        -  __Scissors__ (on box) and __Hammer__ (ladder) on 1 floor, __Rocket Launcher__ (behing gloass at wall), 3 __Molotov__ and 2 __Napalm Fuel__ (storage room) on 2 floor.
+    - Clinic
+      - Wednesday [TODO]
+      - Thursday [TODO]
+      - Friday [VERIFIED]
+        - __Catnip__ and __Chainsaw__ (1 floor), 5 __Medkits__ (storage room in 2 floor),  and 6 __Dynamite__ (on balcony) inside.
+        - __Napalm__ behind trash cans near clinic.
+    - Plumbing Shop
+      - Wednesday [TODO]
+      - Thursday [TODO]
+      - Friday [VERIFIED]
+        - __Molotov__ in toilet behind glass.
+        - __Baseball Bat__, 2 __Donuts__ and __30$__ inside.
+    - Brick House
+      - Wednesday [TODO]
+      - Thursday [TODO]
+      - Friday [VERIFIED]
+        - __Medkit__ and __Health Pipe__ inside.
+        - 2 __Rocket Fuel__, 2 __MP-5 Ammo__, 2 __Glock Ammo__ and __Napalm Ammo__ on roof.
+        - __Grenade Launcher__ at end of wires.
+  - Forest [TODO]
+    - Wednesday [TODO]
+    - Thursday [TODO]
+    - Friday [TODO]
+  - Hobo Brewery [Wednesday_ONLY(???),TODO]
+- Thursday +
+  - Near Napalm Factory [DONE,VERIFIED]
+    - Pipes
+      - Thursday [VERIFIED]
+        - __80$__ and __Gasoline Tank__ behind pipes.
+        - 2 __Medkit__ behind crates.
+        - __Gasoline Tank__ behind stone in center.
+        - __Rocket Launcher__ on air conditioner (jump through windows in 2 toilet room in Unspecified Shop).
+      - Friday [VERIFIED]
+        - __80$__ and __Gasoline Tank__ behind pipes.
+        - 2 __Medkit__ behind crates.
+        - __Gasoline Tank__ behind stone in center.
+        - __Rocket Launcher__ on air conditioner (jump through windows in 2 toilet room in Unspecified Shop).
+    - Unspecified Shop
+      - Thursday [VERIFIED]
+        - __Fish Locator__ (near boiler), __Army Armor__ (at shelfs), __Chompy Plugin__ (wall carving) and __Molotov Coctail__ (at table after ladder) at shelf room. __Flamethrower__ in first toilet. __Pistol__ on boxes downstairs. 2 __Pizza__ (1 room), __Scissors__ (2 room), __70$__ and __Butterfly-Knife__ (3 room) at Employees Only rooms. 3 __M-16__ and 2 __Medkit__ in inner storage room.
+      - Friday [VERIFIED]
+        - __Catnip__ (near boiler), __Army Armor__ (at shelfs), __Chompy Plugin__ (wall carving), and  __Chainsaw__ (at another shelf) at shelf room. __Flamethrower__ in first toilet. __Pistol__ on boxes downstairs. 2 __Pizza__ (1 room), __70$__ and __Butterfly-Knife__ (3 room) at Employees Only rooms. 2 __Medkit__, __Health Pipe__, __Fastfood__, __Scissors__ and 5 __Dogs Treat__ in inner storage room.
+    - Trainwreck
+      - Thursday [VERIFIED]
+        - __Armor__ on second wagon.
+      - Friday [VERIFIED]
+        - NONE
+    - Broken Building
+      - Thursday [VERIFIED]
+        - __Shotgun__ (near burning barrel at 1 floor), __M-16__, __Health Pipe__ and __Bigmouth Plugin__ (jump) at 2 floor.
+      - Friday [VERIFIED]
+        - __Shotgun__ (near burning barrel at 1 floor), __Armor__, __Fish Locator__ and __Rocket Fuel__ (jump) at 2 floor.
+    - Water control
+      - Thursday [VERIFIED]
+        - __Glock Ammo__ at 1 floor. 2 __Medkit__ at 2 floor. __Hammer__ on watertank.
+      - Friday [VERIFIED]
+        - __Glock Ammo__ at 1 floor. 2 __Medkit__ at 2 floor. __Hatchet__ on watertank.
+        - __Sniper Rifle__ at roof.
+    - Napalm Factory
+      - Thursday [VERIFIED]
+        - __Brass Knuckles__ and __Baseball Bat__ inside.
+        - __Shotgun__ near sewer pipes.
+      - Friday [VERIFIED]
+        - __Shotgun__ near sewer pipes.
+    - Red Building
+      - Thursday [VERIFIED]
+        - __Sniper Rifle__ near boarded up door. 2 __Medkit__ on wall in 1 room. __Glock__ on shellf in second. __Gasoline Tank__ and __Butterfly-Knife__ (at shelf) at basement ladders.
+        - __Glock__ (behind toilets), __M-16__ (at pillar after right ladder), 2 __Health Pipe__ and __Shockrocket__ (near burning barrel) at homeless site.
+        - __Sawed Off__, __Donut__ and __Fastfood__ at roof (jump on open doors to get there). 6 __Dynamite__, 2 __MP-5 Ammo__, __Sniper Rifle__, __Rifle Ammo__, __Gasoline Tank__ and __Baseball Bat__ further in roof (HOW?).
+        - __Medkit__ and __Pistol__ in loading room in a back (near greenbelt exit).
+      - Friday [VERIFIED]
+        - 2 __Medkit__ on wall in 1 room. __MP-5__ on shelf in second. __Gasoline Tank__ at basement ladders.
+        - __Glock__ (behind toilets), __M-16__ (at pillar after right ladder), 2 __Health Pipe__ and __Shockrocket__ (near burning barrel) at homeless site.
+        - __Sawed Off__, __Donut__, __Armor__ and 2 __Fastfood__ at roof (jump on open doors to get there). __Army Armor__, 9 __Dynamite__, __Health Pipe__, __MP-5__, 3 __MP-5 Ammo__, __Sniper Rifle__, 3 __Rifle Ammo__, 3 __Gasoline Tank__, __Chainsaw__, 12 __Grenade__ and __Baseball Bat__ further in roof (HOW?).
+        - __Medkit__ and __Pistol__ in loading room in a back (near greenbelt exit).
+  - Napalm Factory [DONE,VERIFIED]
+    - Thursday
+      - __Napalm__ and 6 __Napalm Ammo__ at end.
+      - 4 __Medkit__ in a storage room in vents on the way out.
+  - Suburbs [DONE,VERIFIED]
+    - AIDS Pitbull house
+      - Thursday [VERIFIED]
+        - __Sniper Rifle__, __Shotgun__ (shelf), __M-16__ (bed), __Butterfly-Knife__ and __Brass Knuckles__ (RWS sign on wall) at living room.
+        - 3 __Donut__, 2 __Pizza__ and 7 __Dog Treat__ in kitchen.
+        - __Flamethrower__ in toilet.
+        - __Rocket Fuel__ in bushes at conciled yard (break window).
+        - 4 __Grenade__ on roof.
+      - Friday [VERIFIED]
+        - __Sniper Rifle__, __Shotgun__ (shelf), __M-16__ (bed), __Butterfly-Knife__ and __Brass Knuckles__ (RWS sign on wall) at living room.
+        - 3 __Donut__, 2 __Pizza__ and 7 __Dog Treat__ in kitchen.
+        - 2 __Rocket Fuel__ in bushes at conciled yard (break window).
+        - 4 __Grenade__ on roof.
+    - Flower Walls House
+      - Thursday [VERIFIED]
+        - 2 __Pistol__ at table.
+        - 2 __Fish Locator__ and __Armor__ in closet.
+        - 2 __Fastfood__ at kitchen.
+        - __Rocket Fuel__ at roof.
+      - Friday [VERIFIED]
+        - 2 __Pistol__ at table.
+        - 2 __Fish Locator__ and __Army Armor__ in closet.
+        - 2 __Fastfood__ at kitchen.
+        - __Rocket Fuel__ at roof.
+    - Home with stone labyrint
+      - Thursday [VERIFIED]
+        - __Mad Cow Head__, __Fish Locator__ and __Pirahnia Plugin__ at altar in labyrinth.
+        - __Medkit__ (under bookshelf), __Gasoline Tank__ (in bathroom) and __Shotgun__ (closet in living room) in house.
+      - Friday [VERIFIED]
+        - __Mad Cow Head__, __Fish Locator__ and __Pirahnia Plugin__ at altar in labyrinth.
+        - __Medkit__ (under bookshelf), __Gasoline Tank__ (in bathroom) and __Shotgun__ (closet in living room) in house.
+        - __Grenade Launcher__ at billboard.
+    - Green Big House (2 w Green truck)
+      - Thursday [VERIFIED]
+        - 5 __Pizza__ and __Butterfly-Knife__ at dining hall.
+        - __Baseball Bat__ under a left bed, __50$ ?__ on table.
+        - __Scissors__ (under bookshelf) and __M-16__ (behind bookshelf) in wooden room.
+        - __Medkit__ in a chair near fireplace.
+        - __Glock Ammo__, __MP-5 Ammo__, __SawedOff__, __Armor__ and __Napalm Ammo__ at roof (jump from van to wall)
+      - Friday [VERIFIED]
+        - 5 __Pizza__ and __Butterfly-Knife__ at dining hall.
+        - __Baseball Bat__ under a left bed, __Health Pipe__ on table.
+        - __Scissors__ (under bookshelf) and __M-16__ (behind bookshelf) in wooden room.
+        - __Shotgun__ under fireplace, __Medkit__ in a chair nearby.
+        - __Flamethrower__ in bathroom.
+        - __Hammer__, __Armor__ and __Napalm Ammo__ at roof (jump from van to wall)
+    - Red Roof house
+      - Thursday [VERIFIED]
+        - 3 __Fastfood__ at table near washing machine.
+        - __Catnip__ at chair in bricks room.
+        - 2 __M-16 Ammo__ at wardrobe in sleeping room.
+        - __Shotgun__ in a small toilet near ladder to 2 floor.
+        - __10$__ on floor in library ar 2 floor.
+        - 8 __Grenade__ at west stone wall.
+        - __Rifle Ammo__ at roof.
+      - Friday [VERIFIED]
+        - 3 __Fastfood__ at table near washing machine.
+        - __Catnip__ at chair in bricks room.
+        - 2 __M-16 Ammo__ at wardrobe in sleeping room.
+        - __Shotgun__ in a small toilet near ladder to 2 floor.
+        - __10$__ on floor in library ar 2 floor.
+        - 8 __Grenade__ at west stone wall.
+        - __Rifle Ammo__ at roof.
+    - High house
+      - Thursday [VERIFIED]
+        - __Showel__ in backyard.
+        - __Shootgun__ after big TV in first room.
+        - __Medkit__ in bathroom.
+        - __Shockrocket__ at table in a sleeping room.
+        - __Rocket Fuel__ at roof.
+      - Friday [VERIFIED]
+        - __Showel__ in backyard.
+        - __Shootgun__ after big TV in first room.
+        - __Medkit__ in bathroom.
+        - __Shockrocket__ at table in a sleeping room.
+        - __Rocket Fuel__ at roof.
+    - Remote house
+      - Thursday [VERIFIED]
+        - __Medkit__ under bookshelf.
+        - __M-16 Ammo__ at table.
+        - __Scissors__ behind bookcase in wooden room.
+        - __Health Pipe__ at wardrobe at sleeping room.
+        - __Hatchet__ at tree behind house.
+      - Friday [VERIFIED]
+        - __Medkit__ under bookshelf.
+        - 2 __M-16 Ammo__ at table.
+        - __Scissors__ behind bookcase in wooden room.
+        - __Health Pipe__ at wardrobe at sleeping room.
+        - __Garden Scissors__ at tree behind house.
+    - Talib nest
+      - Thursday [VERIFIED]
+        - 2 __Fastfood__, 2 __Rifle Ammo__ and __Sniper Rifle__.
+      - Friday [VERIFIED]
+        - 2 __Fastfood__, 2 __Rifle Ammo__ and __Sniper Rifle__.
+    - Meat World Entrance
+      - Thursday [VERIFIED]
+        - __ATF__ at entrance.
+        - __Catnip__ on roof.
+      - Friday [VERIFIED]
+        - __ATF__ at entrance.
+        - __Machete__ after sold table.
+        - __Army Armor__ on roof.
+    - Parcel Entrance
+      - Thursday [VERIFIED]
+        - 2 __MP-5 Ammo__ and __MP-5__ at right side corner.
+      - Friday [VERIFIED]
+        - 2 __Glock Ammo__ and __Glock__ at right side corner.
+  - Meat World [DONE,VERIFIED]
+    - Thursday [VERIFIED]
+      - __Catnip__ (wall decor near loading zone, use creates near), __Shotgun__ after crate in corner, 8 __Grenade__ after another, __MP-5 Ammo__ and __Glock Ammo__ (another wall decor) and __Medkit__ on opoosite entrace wall (in room), __Shotgun Ammo__ at grinder corner - in entrance room.
+      - __Butterfly-Knife__ and __Mad Cow Head__ at bloody washing. 3 __Napalm Ammo__ (in corner) in cleaning room. 
+      - __Medkit__ and __Gasoline Tank__ in Toilet.
+      - 2 __M-16__, __Armor__ and __Glock Ammo__ under ladder in a hallway.
+      - __Rocket Fuel__ at crate room ambush point.
+      - 2 __Pistol__ and 2 __Fastfood__ at fenced bridge start.
+      - 8 __Grenade__, 2 __Molotov Coctail__, __Machete__ (at metal case) and __Rifle Ammo__ at fence end.
+      - __Shotgun__ and __Medkit__ at crates maze entrance.
+      - __Medkit__ at crate maze entrance.
+      - __M-16__ and __Army Armor__ at beefs room.
+    - Friday [VERIFIED]
+      - __Catnip__ (wall decor near loading zone, use creates near), __Shotgun__ after crate in corner, 8 __Grenade__ after another, __MP-5 Ammo__ and __Glock Ammo__ (another wall decor) and __Medkit__ on opoosite entrace wall (in room), __Shotgun Ammo__ at grinder corner - in entrance room.
+      - __Butterfly-Knife__ and __Mad Cow Head__ at bloody washing. 3 __Napalm Ammo__ (in corner) in cleaning room. 
+      - __Medkit__ and __Gasoline Tank__ in Toilet.
+      - 2 __M-16__, __Armor__ and __Glock Ammo__ under ladder in a hallway.
+      - __Rocket Fuel__ at crate room ambush point.
+      - 2 __Pistol__ and 2 __Fastfood__ at fenced bridge start.
+      - 8 __Grenade__, 2 __Molotov Coctail__ , __Machete__ (at metal case) and __Rifle Ammo__ at fence end.
+      - __Shotgun__ and __Medkit__ at crates maze entrance
+      - __Medkit__ at crate maze entrance
+      - __M-16__ and __Army Armor__ at beefs room.
+- Friday + [DONE,VERIFIED]
+  - Compaund [DONE,VERIFIED]
+    - Entrance
+      - 3 __Medkit__.
+    - ACP
+      - 4 __Grenade__.
+    - Tank
+      - __M-16__ behind.
+    - Anoter ACP at platform
+      - 4 __Grenade__.
+    - Uncle Dave's Home
+      - 2 __Medkit__ at Shot & Cross Room
+      - 2 __Medkit__ and __Gasoline Tank__ at kichen.
+      - __Medkit__ (behind left table) in yellow/red stripped room near chirch.
+      - __Health Pipe__ on table at Dave's room.
+      - __Armor__ and __Fish Locator__ at gym.
+      - 2 __Rifle Ammo__ at sniper tower (stairs from kitchen)
+      - 2 __Molotov Coctail__ (second floor) and __Medkit__ (first floor) at room with open window (accessable from roof).
+      - __Mad Cow Head__ behind home.
+  - Parcel Office [DONE,VERIFIED]
+    - __5 Pistol__ at shelf. __Scissors__ in another on reception.
+    - 2 __Gasoline Tank__ and __Medkit__ right from entrance. __Scissors__ at shelf in first Small storage room. 
+    - 4 __Grenade__ (behind box) and 2 __M-16 Ammo__ (shelf) in Brick room.
+    - __Molotov Coctail__ on table in playroom.
+    - 2 __M-16__, 16 __Grenade__, __Shotgun__, __Army Armor__ and __Health Pipe__ in arsenal in playroom.
+    - __Rocket Fuel__ at bookcase room.
+    - 2 __Medkit__ and 2 __M-16 Ammo__ at closet in closet room.
+    - __Medkit__ at maze entrance.
+    - 3 __Molotov Coctail__, __Mad Cow Head__, 3 __Medkit__, __Napalm__ and __Rocket Launcher__ at maze.
+  - Junkyard [DONE,VERIFIED]
+    - Entrance [VERIFIED]
+      - 12 __Grenade__ in broken plane tail.
+      - __Army Armor__ on armor stand right to that tail.  
+    - Maze [VERIFIED]
+      - 2 __Molotov__, 2 __Medkits__, __Shotgun__, __MP-5 Ammo__, __Glock Ammo__ and 5 __Dog Treat__ in a maze dead end (after high car near toxins).
+      - __Hammer__ after fridges near generator.

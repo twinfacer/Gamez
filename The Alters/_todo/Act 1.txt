@@ -1,0 +1,50 @@
+Act 1 
+
+## Day 6
+- queue scientist alter, speak w technitian, queue workshop goto outside
+- build 2 Pylons towards lava river
+- goto left and gather SMetals
+- goto back to base
+- pylons towards other side of base
+- gather SRapidium along way
+- drill rocks down and hook up rapidium
+- drill rapidium down until scientist is born
+- TP to base wake up scientist, assign him to lab (?)
+- queue refiner alter in QC
+- TP to rapidium
+- jump down got right and drill down SMetal
+- go back and connect another pylon to network
+- go back to SMetal but turn right and build pylons along way
+- discover vantage point
+- continue to build pylons net upward turn left
+- drill down SMetal
+- drill down rocks toward DRapidium, then build TP pylon and goto base
+- Talk to tech (then build Dorm??)
+- Goto sleep
+
+## Day 7
+- Wake up refiner
+- TP to TP pylon and collect it
+- Jump UP and drill down SMetals (NOT_ON_MAP)
+- Jump up and discover anomalies 
+- Hook up Minerails Outpost
+- run down towards QC chip and collect it, run further turn right
+- pass throug anomalies and drill down SMetal the jump up
+- collect movie then goto through anomalies toward another bank of lava river, build TP Pylon there
+- TP to base, talk to scientist about anomalies (queue Luminator???), speach w technitian about chip, queue chip
+- TP outside, run toward SOrgaic to right than drill it down, goto towards SOrganic near Rapidium
+- Drill it down then goto DRapidium (and TP to base, build storage ???, then TP back to Rapidium) and grind it until night.
+- TP to Base, talk to scientist about lava river, call down Maxwell about ark
+- Goto QC, upgrade to II lvl then queue worker then build rapidium ark, call back Maxwell
+- Goto sleep.
+
+## Day 8
+- Wake up worker alter then goto kitchen and speak w alters
+- Then TP to Rapidium and drill it down until (20 RP ???) then dismantle outpost
+- goto towards DEnriched and hook it up then TP to Base and Build Refinery
+- ??? Assign technitian to enriched then goto sleep (~13:00)
+
+## Day 9
+- Queue Archon Bridge to lab, answer Lucas phonecall then go sleep??? (~8:00)
+
+## Day 10

@@ -1,0 +1,673 @@
+# Cards
+## Fire (56)
+- [5] (2) Ork Soldier (4/16) - Deals 4 dmg to owner if owner <SP> < 3 when it's summoned.
+- [5] (1) Fire Bolt - Deals 9 dmg to any creature.
+- [10] (5) Fire Ball - Deals <SP+4> to all opponent creatures.
+- [10] (4) Hammer of Ancients - Deals 5 dmg to opponent creature. Returns to hand.
+- [10] (2) Orkish Mage (3/12) - When owner sacs <FIRE> spell??? deals X dmg to opponent where X is equal to owners <orcs> count.
+- [15] (2) Wall of Fire. (0/24) - Deals 4 dmg to all opponent creatures and oponnent when summoned.
+- [15] (6) Salamander (2/36) - Damages all opponent creatures. {1} -> Deal 12 to opponent creature and 12 to self.
+- [20] (1) Astral Burn - Deals 3 dmg to opponent. Deals X dmg to all enmy creatures where X is its cost.
+- [20] (2) Orc Shaman (2/8) - {4} - Deals 8 dmg to opponent creature.
+- [25] (4) Minotaur - (5/15) - When summoned deals 10 dmg to creature in opposite slot.
+- [25] (4) Rune of Eternal Fire - Destroy target creature. Deals 3 dmg to owner.
+- [25] (2) Fire Spikes - Deals 3 dmg to all opponent creatures. Draw a card.
+- [25] (5) Runemaster (5/18) - {3} - Destroy any creature with cost < 4. It's owner gets card.
+- [30] (1) Fire Spirit (4/9)- Deals 2 dmg to owner when summoned.
+- [30] (3) Ork Chieftain (3/13) - Add 1 attack to other owner non-wall creatures.
+- [30] (5) Bastion of Darkness (0/40) - Regen 4. {2} - Deals 12 dmg to opponent creature and 12 to itself.
+- [35] (3) Goblin Trapper (4/12)- Deals 4 dmg to opponent creature when it spawned.
+- [35] (1) Drain Life - Deals 6 dmg to target opponent creature. Caster gains 6 life. 
+- [35] (2) Orc Battlemage (4/12) - {3} - Deals 4 dmg to target opponent creature. Grants +1 <AT> permanently.
+- [40] (4) Cursed Rain - Deals 8 dmg to all creatures. -1 <SP> to opponent.
+- [40] (3) Rune of Burning Fire - Destroy target creature with cost <= 5. Deals 3 dmg to caster.
+- [45] (6) Fire Elemental (?/20) - Deals 3 dmg to opponent and all it's creatures when summoned. Attack equal to owners <SP>.
+- [45] (2) Ogre Berserker (4/8) - {2} - Reduce opponents <SP> by 1. Deals 8 to itself.
+- [50] (1) Rune of Astral Fire - Destroy target creature with cost <= 3. Deals 3 dmg to caster.
+- [50] (6) Emissary of Dorlak (8/35) - {1} - Destroy target owner creature. Fully regenerates self.
+- [50] (4) Lord of Flame (5/16) - Each time owner sacrifice Fire card deals 5 to all opponent creatures.
+- [50] (4) Test of Endurance - Deals 12 to all creatures. Deals damage to opponent equal to total attack of owner survived creatures.
+- [55] (6) Plasma Bolt - Deals <SP+4> to target opponent creature and opponent.
+- [55] (5) Amnesia - Opponent looses 2 cards. Deals 3 to opponent.
+- [60] (8) Efreet (8/30) - Deals 12 to all opponents creatures when summoned.
+- [60] (9) Wrath of Dorlak - Destroy all creatures. Caster gains a card for all it's creatures destroyed.
+- [60] (2) Adept of Dorlak (3/12) - {1} - Destroy target owners creature and summons 5/15 Dark servant instead.
+- [65] (3) Goblin Researcher (3/13) - {2} - Owner looses all cards and gets 1 card.
+- [65] (3) Bloody Hunter (4/10) - Gives 1 <PS> to owner when he kills opponent creature. {2} - Deals 4 to target opponent creature.
+- [70] (3) Burning Ritual. Deals 3 to opponent. -1 <SP> of opponent. 
+- [70] (4) Dorlak Priest (3/12) - When summoned drains all owner's mana. {2} - Destroy target owner creature. Owner gains 2 cards.
+- [75] (1) Goblin Slinger (3/8) - {1} - Deals damage to opponent equals to number owner goblins. 
+- [80] (8) Inferno - Deals <SP+8> to all opponent creatures and opponent.
+- [80] (5) Drain Power - -1 <SP> to opponent. Caster gains a card.
+- [85] (4) Dark Priest (2/10) - -1 <SP> of opponent whe summoned.
+- [85] (1) Goblin Tower (0/9) - Whenever opponent gains life, owner gains a card.
+- [90] (4) Blood Ritual - Destroy owner creatures. Deals damage equal to it's live to all opponent creatures. 
+- [90] (4) Dark Servant (5/15) - Whenever you sacrifice this card gains 1 additional mana.
+- [95] (7) Memory Burn - Opponent looses 4 cards.
+- [100] (6) Wall of Blood (0/15) - When owner sacrifices a card it's gains a card.
+- [100] (2) Slaying the Weakest - Destroy opponets target creature with power < then you <SP>.
+- [120] (2) Ogre Soldier (5/15) - Cannot attack if creature in opposing slot has attack >= 5. 
+- [145] (4) Curse - Opponent loses 1 <SP>. Opponent looses 1 card.
+- [160] (2) Goblin Witch (4/10) - When it's summoned reduce all players <SP> by 1.
+- [175] (2) Offering to Dorlak - Destroy caster target creature. Caster gains 2 cards and 2 mana.
+- [180] (5) Lord of Pain (6/30) - Owner can sacrifice any number of cards each turn. When he do so - it deals 5 damage to each wall.
+- [200] (4) Armageddon - Destroys all creatures. All players gets -X <SP> where X is count of creatures destroyed this way.
+- [200] (4) Bargul (4/12) - Immune to spells and abilities damage. When summoned deals 10 to all creatures.
+- [200] (3) Planar Burst - Deals 3*<SP> to all creatures.
+- [250] (1) Goblin Shaman (3/8) - When owner casts fire or air spell it deals 2 to opponent.
+- [275] (9) Dragon (8/40) - When owner cast a spell - opponent gets -1 <SP>.
+## Water
+- [5] (3) Justice - Deals damage to each opponent creature equal to that creature attack. Caster gains a card.
+- [5] (3) Merfolk Trapper (4/12) - Deals 10 to opponent creatures when they summoned and 6 to itself.
+- [5] (3) Storm Ritual - Caster gains 1 <SP>. Then if caster <SP> is >= 6 it deals 6 damage to each opponent creature.
+- [10] (3) Call the Fittest - Select any creature card in you deck then gains a copy of it.
+- [15] (4) Ice guard (3/20) - Reduce all damage to owner by 50%. Loses 3 HP each round.
+- [15] (7) Ice Elemental (?/32) - Loses 3 life each round. Attack equal to owner <SP>
+- [15] (2) Adept of Power (3/12) - {1} - Deals damage equal to owner's <SP> to target creature. Owner looses 1 <SP>.
+- [20] (4) Materialize - Search for any card in you deck and gains copy of it.
+- [20] (4) Ice Golem (4/28) - Immune to spells and abilities damage. Loses 3 HP each round.
+- [20] (3) Wall of Acid (0/18) - When owner sacrifice a card it deals 3 to every opponent creature.
+- [20] (3) Wall of Reflection (0/25) - Whenever opponent creature deals damage to it it deals equal amount of damage back . {1} - Moves to target empty slot.
+- [25] (3) Sea Sprite (6/22) - Deals 2 to owner each turn.
+- [25] (5) Acidic Drake (2/15) - Attack all enemies.
+- [25] (8) Astral Collapse - Deals deamage to all opponent creatures equal to opponet creatures count * 4.
+- [25] (4) Merfolk Scout (4/15) - When it deals damage to opponent owner gains 1 <SP>.
+- [25] (3) Ritual of the Ocean - Caster gains 1 <SP>. Then if it has >= 8 <SP> it gains a card.
+- [25] (1) Divine Favour - Heals 10 to target caster creature. Deals 10 to opponent creature in opposing slot.
+- [30] (3) Storm Drake (3/15) - Attacks all enemies. Gets +2 damage from all sources.
+- [30] (2) Astra Channeler (1/14) - When owner summons creature with 4+ cost it gains 1 <SP>.
+- [30] (4) Astral Analysis - Caster gains 1 <SP>. Caster gains a card.
+- [30] (2) Merflok Summoner (3/12) - {9} - Summon Ice Elemental in any owner free slot.
+- [35] (3) Astral Judge (2/15) - {2} Deals damage to each opponent creature equal to that creature attack.
+- [35] (5) Divine Justice - Heals 12 to target creature. Deals 12 to all other creatures.
+- [35] (1) Merfolk Apostate (2/11) - {1} - Owner looses 1 <SP> and gains a card.
+- [40] (6) Astral Search - Search you library for any card and gains copy of it. Gain X life where X is that card cost.
+- [40] (5) Gaint Toad - 5/25. When you summon this creature draw 1 card for any other [Gaint Toad] on battlefield.
+- [40] (3) Keeper of the Coast (3/16) - {1} - Owners gains 5 life. Cannot be used if owner has more creatures than opponent.
+- [40] (7) Whale Hunter (6/28) - Whenever it's kill opponent creature owner gains Whale Hunter copy in hand. {5} - Deals 6 to target opponent creature.
+- [45] (3) Merfolk Hunter (3/12) - {1} - Deals 10 to target opponent creature and 6 to self.
+- [45] (3) Acid Rain - Deals to each enemy creatures damage equal to half of than creature life (rounded up). Owner gains a card.
+- [50] (1) Clone - Get a copy of any creature on a battlefield in hand.
+- [50] (1) Merfolk Powerkeeper (2/8) - When it's killed owner gains 1 <SP>.
+- [60] (1) Wall of Ice (0/10) - When summoned owner gains a card. Loses 3 life each round.
+- [60] (3) Merfolk Duplicator (3/14) - {4} - Owner gets a copy of target creature in hand.
+- [65] (1) Steal Essence - Deals 6 to target opponent creature. Owner gains that crature copy in hand.
+- [70] (8) Water Elemental (?/28) - Attack equal to owner <SP>. Owner gains 1 <SP> when summoned.
+- [70] (5) Merfolk Overlord (4/16) - Increase all other owner merfolks attack by 2. When owner sacrifices a card it gains 1 additional <SP>.
+- [75] (2) Merfolk Elder (1/10) - {2} - Owner gains 2 <SP> and looses a card.
+- [90] (5) Merfolk Spellbreaker (4/13) - When opponent cast a spell counter it and deals 10 to this.
+- [90] (0) Spirit of the Coast (2/7) - {2} - Deals 2 to opponent and dies. Owner gains a card.
+- [90] (3) Merfolk Stormcaller (3/14) - When summoned owner gains a Ritual of Storm card.
+- [100] (4) Deep Meditation. - Caster gains 2 <SP>. Then caster gains life equal to numbers of creatures he controlls.
+- [100] (6) Wall of Eternal Ice (0/75) - {2} - Deals 5 to all opponent creatures.
+- [110] (2) Merfolk Shaman (1/8) - When summoned owner gains 1 <SP>.
+- [110] (3) Unified Will - Owner gains X <SP>, where X is number of creatures he controls.
+- [110] (4) Final Sacrifice - Each player loses half of you life (rownded down). 
+- [120] (4) Lord of the Coast (5/16) - Reduces cost al all other creatures summoned by owner by 1. 
+- [120] (1) Siren (3/9) - When has 6+ attack returns to owner hand and he gains card. {1} - Moves to emty slot and gains +1 attack permanently.
+- [135] (4) Gaint Turtle (3/15) - All damage deat to it reduced by 3. Whenever owner cast spell with cost 3 he gains card. Unique.
+- [150] (2) Duplicated Matrix  - Caster searches his library for any spell and gains copy of it. 
+- [155] (6) Ocean Master (4/28) - When its deals damage to player that player looses 2 <SP>. 
+- [200] (1) Meditate - Caster gains 1 <SP>.
+- [200] (6) Mind Master (5/25) - {4} - Search you library for any card and gains it's copy.
+- [200] (2) Merfolk Oracle (2/11) - Whenever owner sacrifices earth card it gains 1 <SP>
+- [250] (3) Astral Guard (1/16) - When opponent plays spell instead deals 4x<SPELL_COST> to this and counter that spell.
+- [300] (3) Gift of the Sea - Caster searches his library for any other water card and gains 2 copies of it. 
+## Earth
+- [5] (3) Forest Sprite (1/18) - Attacks all enemies. {3} - Owner gains life equal to number of creatures he has. 
+- [5] (1) Nature Ritual - Caster gains 9 life. Heals all caster creatures by 9.
+- [10] (1) Elf Healer (2/11)- {2}: Owners gains 5 life.
+- [10] (2) Elf Armorer (2/9) - Reduce all damage to owner or owner creatures by 1.
+- [10] (1) Elf Warrior (3/9) - Cannot be targeted by opponent or it's creatures.
+- [15] (2) Healing Ritual - Heals up to 6 life of target creature. Caster gives a card.
+- [15] (2) Forest Snake (3/15) - Has +2 attack if opposite slot is occupied. {1} - Moves to target empty slot.
+- [15] (4) Will of Ancients - Summon Elf Warrior in target slot. Returns to caster's hand.
+- [15] (2) Elven Archer (3/10) - {2} - Deals 4 to opponent's target creature. 
+- [20] (2) Glay Golem (3/15) - Immune to magic damage.
+- [20] (2) Dwarfen Scout (2/16)- <4>: Search for [Dwarf] creature card in you deck and gain copy of it.
+- [25] (4) Elven Knight (2/20) - Attack 3 times.
+- [25] (4) Master Healer (1/18) - <1>: Heal target creature to full.
+- [25] (5) Gaint Spider (3/20) - {1}: Deals damage equal to half (rounded up) it's healt to target opponent creature.
+- [30] (2) Wild Ritual - Caster gainn 4 <MANA>.
+- [30] (5) Elven Lord (?/24) - Attack is equal to number of creatures owners controlls. <1>: Summon Elven Warrior in target empty slot.
+- [30] (2) Dark Elf (3/13) - Reduces owner fire spells cost by 1.
+- [35] (3) Avenging Druid (4/14) - {1} - Deals damage equal to count of owners creatures to opponent target creature.
+- [40] (1) Wrath of Hamsters. - Deals 6 to each creature with cost 2+. Caster gains a card.
+- [45] (1) Cure - Casters gains 2 <LIFE>. Casters gains a card.
+- [45] (5) Rock Golem (6/25) - Immune to magic damage.
+- [45] (6) Rejuviration - Caster gains 10 life and gains 2 cards.
+- [50] (5) Dwarf Soldier (X/24) - It's attacks equal to 4 + numbers of dworfs it play. {4} - Caster searches for any dwarf card in his deck and gains copy of it. 
+- [50] (4) Ancient Zubr (4/25) - {2} - It gains +2 attack permanently.
+- [60] (4) Lord of Nature (5/16) - {3}: Can be activated if owner has fir and air creure in play. Owners gains 10 life and 2 cards. 
+- [65] (5) - Cave troll (4/20) - Regenerate 4. Whenever owner casts spell with cost 4 it gains card. Unique.
+- [65] (2) Elf Defender (3/9) - Reduce all spell and abilities damage to you creatures by 2.
+- [65] (1) Hamster Hunter (2/7) - When it kills opponent creature owner gains 2 cards. {2} - It deals 3 to opponent target creature.
+- [70] (5) Stone Rain - Deals 15 to all creatures. If caster <AP> is 8+ damages only noncaster creatures. 
+- [70] (8) Elven King (5/30) - {3} - Owner chooses any creature in his deck and gains copy of it.
+- [75] (1) Wrath of Nature - Deals damage equals to caster creatures count to all opponent creatures.
+- [75] (2) Elven Priest - {2} - Owners gains 4 mana. His opponent gains 4 life.
+- [75] (3) Dwarven Prest (4/15) - Owner gains 6 life when summoned. {6} - Search you deck for [DWARF] card and gains copy of it.
+- [80] (7) Earth Elemental (X/50) - X equal to you <AP>. Owners gains 4 mana when it's summoned.
+- [80] (3) Elf Wanderer (4/15) - {1} - Returns it to owners hand. Owner gains 4 mana. Cannot be used immidiatly.
+- [80] (1) Polymorph - Destroy any creature, it's controller gains a card.
+- [80] (4) Ritual of Empowerment. - Target creature gains +2 attack permanently. Caster gains mana equal to that number.
+- [85] (6) Dwarfen Lord (6/25) - <2>: Search you deck for [DWARF] card and gains copy of it.
+- [100] (1) Hamster Mystic (1/6) - When owner sacrifices a card it gains 1 mana.
+- [110] (1) Magic Rabit (2/7) - Owner Gains 2 mana when summoned. {5} - It dies and owner gains 2 cards.
+- [120] (3) Nature Sword - Destroy any target creature. Gain life equal to it's life.
+- [125] (4) Dwarven Archer (4/15) - Deals 4 to opponent when owner summons a dwarf. {4} - Search you deck for [DWARF] card and gains copy of it.
+- [125] (3) Hobbit Settler (1/5) - Owner gains 2 copies of it when summoned.
+- [125] (0) Ritual of Life - Caster gains 1 life and 1 card.
+- [140] (3) Keeper of Nature (4/18) - {1}: Cannot be used when owner has more creatures than opponent. Owner searches for earth card and gains copy of it.
+- [155] (3) Wall of Revival (0/12) - Owner gains 2 mana at sstrt of a turn. When owner sacrifices an elf he gaina card.
+- [160] (4) Stone Ritual - Caster gains 5 mana and a card. 
+- [170] (4) Wall of Peace (0/16) - Reduce attack of opponents creatures by 1. At end of tuwn owners gains a card if he cast any ritual this turn.
+- [170] (2) Wall of Silence (0/10) - Whenever any creature deals damage to player that creature owner looses a card and that player gains a card.
+- [175] (7) Mythril Golem (8/32) - Immune to spell and abilities damage. {1} - Gains 10 mana to owner. Owner looses a card.
+- [190] (3) Elf Hermit (3/16) - When summoned owner gains 8 life. At end of turn owner gains card for each hamster he has in play.
+- [200] (5) Elf Mystic (X/24) - X is a numder of your creatures. Each time owner summons elf creature he gains a card. 
+- [200] (1) Natural Hunger - Deals damage to opponent equal to summ of attacks of all creatures caster controls.
+- [200] (2) Elven Mage (3/13) - <2> Owner gain <MANA> eq to it's <AP>. Cannot be used on turn when he is summoned.
+- [250] (3) Elven Oracle (4/16) - {1} - Owner gains mana equal number of creatures he controlls.
+- [300] (1) Elven Ritual - Caster gains 4 mana. Opponent gains 4 life.
+## Air
+- [5] (1) Faery Apprentice (3/8) - +2 to all you spell damage.
+- [5] (3) Hypnotize - Target creature attacks it's owner. Caster gains a card.
+- [5] (3) Lightning Storm - Deals 7 to all creatures. Caster gains a card.
+- [10] (8) Titan (7/30) - When summoned deals damage to opponent equals to number of creatures in play.
+- [10] (1) Ritual of Wind - Return target creature to owners hand.
+- [15] (2) Griffon (3/10) - If owner <SP> >= 4 deals 5 to opponent when summoned.
+- [15] (4) Faerie Asassin (3/14) - When opponent slot is empty gets +7 attack. 
+- [20] ()
+- [20] ()
+- [25] ()
+- [25] ()
+- [25] ()
+- [30] ()
+- [30] ()
+- [30] ()
+- [35] ()
+- [35] ()
+- [35] ()
+- [35] ()
+- [40] ()
+- [40] ()
+- [45] ()
+- [45] ()
+- [45] ()
+- [50] ()
+- [50] ()
+- [50] ()
+- [50] ()
+- [55] ()
+- [55] ()
+- [60] ()
+- [60] [6] Chain Lightning - Deals caster AP to all enemy creatures and opponent.
+- [60] ()
+- [65] ()
+- [70] ()
+- [75] ()
+- [75] ()
+- [80] ()
+- [90] ()
+- [90] ()
+- [95] ()
+- [100] ()
+- [110] ()
+- [120] ()
+- [150] ()
+- [150] ()
+- [150] ()
+- [155] ()
+- [160] ()
+- [160] ()
+- [225] ()
+- [225] ()
+- [225] ()
+- [250] ()
+- [300] ()
+
+
+# League Decks
+## Starter
+ + 40 MP for 1 place. +30 for 2. 
+### Alrio (Earth [2169])
+  - 3 Cure
+  - 3 Elven Priest
+  - 3 Avenging Druid
+  - 3 Elf Wanderer
+  - 3 Wall of Peace
+  - 3 Elven Lord
+  - 3 Stone Rain
+  - 3 Earth Elemental
+  - 2 Elf Hermit
+  - 2 Elven Archer
+  - 1 Elf Mage
+  - 1 Stone Golem
+### Borey (Water [895])
+  - 3 Clone
+  - 3 Astral Channeler
+  - 3 Adept of Power
+  - 3 Ritual of Storm
+  - 3 Justice
+  - 3 Ice Golem
+  - 3 Ice Guardian
+  - 3 Giant Tortoise
+  - 3 Acidic Drake
+  - 2 Storm Drake
+  - 1 Divine Justice
+### Merigar (Air/Fire [1175])
+  - 3 Faerie Dancer
+  - 3 Wall of Lightning
+  - 3 Lightning Storm
+  - 3 Hypnosis
+  - 3 Cursed Rain
+  - 3 Priest of Air
+  - 3 Wall Of Knowledge
+  - 3 Fire Ball
+  - 2 Astral Bolt
+  - 2 Titan
+  - 1 Astral Wind
+  - 1 Minotaur
+### Discobob (Fire [1242]) - Fire control deck with lots of <AP> reduction spells (Burning Ritual/Curse/Drain Power), targeted removal (Fire Bolt/Rune of Astral fire/Rune of Burning Fire), some mass damage (Astral Burn/Fire Spikes/Fireball) and Salamander as finisher.
+  - 3 Fire Bolt
+  - 3 Rune of Astral Fire
+  - 3 Astral Burn
+  - 3 Fire Spikes
+  - 3 Burning Ritual
+  - 3 Rune of Burning Fire
+  - 3 Curse
+  - 3 Drain Power
+  - 3 Fire Ball
+  - 3 Salamander
+### Velana (Air/Earth [1260]) - Defensive deck with lots of bounce spells (Ritual of Wind/Astral Wind), damage reduction (Elf Armorer/Wall of Peace) and Titan as finisher.
+  - 3 Ritual of Wind
+  - 3 Wrath of Nature
+  - 3 Wild Ritual
+  - 3 Elf Armorer
+  - 3 Hypnotize
+  - 3 Master Healer
+  - 3 Wall of Peace
+  - 3 Astral Wind
+  - 3 Wall of Knowledge
+  - 3 Titan
+### Lorena (Air/Water [995])
+  - 3 Ritual of Wind
+  - 3 Griffin
+  - 3 Adept of Power
+  - 3 Hypnotize
+  - 3 Reflection Wall
+  - 3 Faerie Assasin
+  - 3 Ice Guard
+  - 3 Gaint Tortoise 
+  - 3 Inqusitor
+  - 2 Merfolk Elder
+  - 1 Storm Ritual 
+### Shakr (Fire/Earth [1195])
+  - 3 Elf Healer
+  - 3 Nature Ritual
+  - 3 Fire Spikes
+  - 3 Wild Ritual
+  - 3 Elf Defender
+  - 3 Elf Hermit
+  - 3 Forest Sprite
+  - 3 Master Healer
+  - 3 Salamander
+  - 2 Dark Bastion  
+  - 1 Minotaur
+### Avdot'ya (Water [625])
+  - 3 Merfolk Elder
+  - 3 Adept of Power
+  - 3 Wall of Acid
+  - 3 Merfolk Trapper
+  - 3 Storm Ritual
+  - 3 Justice
+  - 3 Wall of Reflection
+  - 3 Ice Guardian
+  - 3 Acidic Drake
+  - 2 Ice Elemental
+  - 1 Merfolk Shaman 
+### Fademir (Air [652])
+  - 3 Faerie Apprentice
+  - 3 Ritual of Wind
+  - 3 Astral Arrow
+  - 3 Wind Master
+  - 3 Hypnotize
+  - 3 Lightning Storm
+  - 3 Astral Wind
+  - 3 Wasting Winds
+  - 3 Wall of Knowledge
+  - 2 Inquisitor
+  - 1 Titan
+### Caltor (Earth [1125])
+  - 3 Elf Healer
+  - 3 Elf Warrior
+  - 3 Nature Ritual
+  - 3 Healing Ritual
+  - 3 Wild Ritual
+  - 3 Elf Hermit
+  - 3 Forest Sprite
+  - 3 Cave Troll
+  - 2 Elven Priest   
+  - 2 Clay Golem
+  - 1 Dwarven Scout
+  - 1 Dwarven Warrior
+### Bonefist (Water/Fire [450])
+  - 3 Fire Bolt
+  - 3 Rune of Astral Fire 
+  - 3 Wall of Fire
+  - 3 Fire Spikes
+  - 3 Justice
+  - 3 Merfolk Hunter
+  - 3 Ritual of Storm
+  - 3 Fire Ball
+  - 3 Salamander
+  - 2 Hammer of Ancient
+  - 1 Minotaur
+## Advanced
+### Cheater (Air/Fire [2410]) - Shitloads of Astral Warriors
+  - 10 Astral Warrior
+  - 3 Fire Bolt
+  - 3 Ritual of Wind
+  - 3 Burning Ritual
+  - 3 Curse
+  - 3 Hammer of Ancients
+  - 3 Fire Ball
+  - 2 Ball of Lightning
+### Cooler (Air/Fire [2730]) - Faerie Mage deck. Draw and deal damage.
+  - 3 Faerie Apprentice
+  - 3 Astral Warrior
+  - 3 Goblin Shaman
+  - 3 Astral Bolt
+  - 3 Wall of Fire
+  - 3 Fire Spikes
+  - 3 Faerie Mage
+  - 3 Burning Ritual
+  - 3 Blood Ritual
+  - 3 Wall of Knowledge
+### Forvor (Water/Fire [1185]) - Aggresive ramp.
+  - 3 Fire Spirit
+  - 3 Rune of Astral Fire
+  - 3 Merfolk Shaman
+  - 3 Wall of Fire
+  - 3 Acidic Wall
+  - 3 Rune of Burning Fire
+  - 3 Astral Analysis
+  - 3 Materialize
+  - 3 Acidic Drake
+  - 3 Plasma Bolt
+### Gotmog (Fire [877]) - Pure aggro deck with some magic support.
+  - 3 Fire Bolt
+  - 3 Ork Soldier
+  - 3 Ogre Berserker
+  - 3 Fire Spikes
+  - 3 Ork Chieftain
+  - 3 Minotaur
+  - 3 Drain Power
+  - 3 Salamander
+  - 2 Astral Burn
+  - 2 Goblin Trapper
+  - 1 Ogre Soldier
+  - 1 Amnesia
+### Halael (Air/Earth [1405]) - Many creatures with ETB abilities + Faerie Windcrafter/Other Bounce
+  - 3 Cure
+  - 3 Elven Warior
+  - 3 Griffin
+  - 3 Wild Ritual
+  - 3 Master of the Wind
+  - 3 Faerie Windcrafter
+  - 3 Elf Hermit
+  - 3 Wall of Knowledge
+  - 3 Titan
+  - 2 Wasting Winds
+  - 1 Ritual of Wind
+### Kritana (Water [1566]) -
+  - 3 Merflok Shaman
+  - 3 Ritual of Storm
+  - 3 Justice
+  - 3 Ice Guard
+  - 3 Astral Analysis
+  - 3 Acidic Drake
+  - 3 Ocean Master
+  - 2 Meditation
+  - 2 Sea Spirit
+  - 2 Ice Elemental
+  - 1 Ice Golem
+  - 1 Gaint Tortoise
+  - 1 Water Elemental
+### Lidia (Fire/Earth [1260]) -
+  - 3 Elven Warrior
+  - 3 Fire Bolt
+  - 3 Astral Burn
+  - 3 Elven Archer
+  - 3 Elven Priest
+  - 3 Elf Hermit
+  - 3 Fireball
+  - 2 Rune of Astral Fire
+  - 2 Rune of Burning Fire
+  - 2 Rune of Eternal Fire
+  - 1 Forest Snake
+  - 1 Master Healer
+  - 1 Will of Ancients
+### Melidiadus (Water/Fire/Air [3895]) - Ramp/Control deck around Mind Master/Duplicated Marix and lots of 1'ofs . 
+  - 3 Meditation
+  - 3 Astral Warrior
+  - 3 Merfolk Shaman
+  - 3 Duplicated Matrix
+  - 3 Refiled Memory
+  - 3 Deep Meditation
+  - 3 Mind Master
+  - 2 Planar Burst
+  - 1 Rune of Astral Fire
+  - 1 Ritual of Wind
+  - 1 Slaying the Weakest
+  - 1 Rune of Burning Fire
+  - 1 Hammer of Ancients
+  - 1 Astral Collapse
+  - 1 Inferno
+### Stonegor (Earth [2169]) - Elves and Dwarves.
+  - 3 Elven Warrior
+  - 3 Wrath of the Nature
+  - 3 Elven Archer
+  - 3 Dwarven Scout
+  - 3 Wild Ritual
+  - 3 Stone Ritual
+  - 3 Elf Mystic
+  - 2 Natural Hunger
+  - 2 Avenging Druid 
+  - 1 Elven Priest
+  - 1 Dwarven Priest
+  - 1 Dwarven Archer
+  - 1 Dwarven Soldier
+  - 1 Dwarven Lord
+### Turion (Water/Air [970]) - 
+  - 3 Clone
+  - 3 Faerie Sparkcaster
+  - 3 Merfolk Shaman
+  - 3 Griffin
+  - 3 Wall of Lightning
+  - 3 Ritual of Storm
+  - 3 Astral Analysis
+  - 2 Astral Bolt
+  - 2 Justice
+  - 2 Astral Wind
+  - 2 Phantom Beast
+  - 1 Faerie Sage
+### Valor (Air/Earth [1415]) - Creatures with abilities + Faerie Mentor.
+  - 3 Faerie Sparkcaster
+  - 3 Elven Archer
+  - 3 Elven Priest
+  - 3 Faerie Hypnotist
+  - 3 Wild Ritual
+  - 3 Faerie Mentor
+  - 3 Avenging Druid
+  - 3 Ball of Lightning
+  - 2 Elf Healer
+  - 2 Wrath of Nature
+  - 2 Faerie Windcrafter
+## Pro
+### Galador [Water/Earth 3210] (Combo - Raise AP and Heals. Comboes of with Wall of Eternal Ice + Sword of the Nature + Final Sacrifice)
+  - 3 Meditation
+  - 3 Wall of Ice
+  - 3 Heal
+  - 3 Merfolk Shaman
+  - 3 Duplicated Matrix
+  - 3 Sword of Nature
+  - 3 Dwarf Prest
+  - 3 Deep Meditation
+  - 3 Final Sacrifice
+  - 3 Wall of Eternal Ice
+### Grishack [Wind/Earth 2835] (Loves to draw, kills via Faerie Mage)
+  - 3 Astral Warrior
+  - 3 Astral Arrow
+  - 3 Elven Priest
+  - 3 Wild Ritual
+  - 3 Faerie Mage
+  - 3 Refiled Memory
+  - 3 Astral Wind
+  - 3 Stone Ritual
+  - 3 Pure Knowledge
+  - 3 Wall of Knowledge
+### Ha-Mir (Fire/Water [3355])
+  - 3 Meditation
+  - 3 Wall of Ice
+  - 3 Slaying the Weakest
+  - 3 Merfolk Shaman
+  - 3 Duplicated Matrix
+  - 3 Deep Meditation
+  - 2 Astral Analysis
+  - 2 Mind Master
+  - 2 Water Elemental
+  - 1 Rune of Astral Fire  
+  - 1 Rune of Burning Fire
+  - 1 Rune of Eternal Fire
+  - 1 Armageddon
+  - 1 Planar Burst
+  - 1 Inferno
+### Janus (Fire [2970])
+  - 3 Ork Shaman
+  - 3 Goblin Shaman
+  - 3 Rune of Astral Fire
+  - 3 Goblin Witch
+  - 3 Slaying the Weakest
+  - 3 Burning Ritual
+  - 3 Dark Priest
+  - 3 Curse
+  - 3 Dark Bastion
+  - 3 Drain Power
+### Kevar (Air/Fire [2570])
+  - 3 Goblin Shaman
+  - 3 Astral Warrior
+  - 3 Rune of Astral Firt
+  - 3 Seeker of Knowledge
+  - 3 Slaying the Weekest
+  - 3 Rune of Burning Fire
+  - 3 Dark Priest
+  - 3 Wind of Command
+  - 3 Hammer of Ancients
+  - 2 Dark Bastion
+  - 1 Air Elemental
+### Baboot [Fire/Earth 4430] (Use AOE DMG, mana acceleration spells and has all it's cretures immune to magic DMG.)
+  - 3 Elven Ritual
+  - 3 Natural Hunger
+  - 3 Clay Golem
+  - 3 Bargul
+  - 3 Planar Burst
+  - 3 Stone Ritual
+  - 3 Rock Golem
+  - 3 Mythril Golem
+  - 2 Slaying the Weakest
+  - 2 Memory Burning
+  - 2 Stone Rain
+### Niraon [Fire/Air 4420] - Lord of Pain + Faerie Mage combo.
+  - 3 Astral Warrior
+  - 3 Astral Arrow
+  - 3 Seeker for Knowledge
+  - 3 Forbidden Knowledge
+  - 3 Refiled Memory
+  - 3 Faerie Mage
+  - 3 Priest of Air
+  - 3 Lord of Pain
+  - 3 Appocalypse
+  - 1 Slaying the Weakest
+  - 1 Enslaving Wind
+  - 1 Chain Lightning
+### Poseidon [Water = 3475]
+  - 3 Meditation
+  - 3 Wall of Ice
+  - 3 Merfolk Shaman
+  - 3 Duplicated Matrix
+  - 3 Astral Protector
+  - 3 Deep Meditation
+  - 3 Astral Anlysis
+  - 3 Water Elemental
+  - 2 Astral Master
+  - 2 Merfolk Duplicator
+  - 1 Materialization
+  - 1 Astral Collapse
+### Skykeeper (Air 1408) - Pure Air aggro with Faerie Archers.
+  - 3 Astral Warrior
+  - 3 Faerie Sparkcaster
+  - 3 Faerie Apprentice
+  - 3 Wind Ritual
+  - 3 Faerie Archer
+  - 3 Faerie Hypnotist
+  - 3 Griffin
+  - 3 Wyvern
+  - 3 Air Priest
+  - 2 Faerie Assasin
+  - 1 Faerie Sage
+### Cassandra (Earth/Water 3945)
+  - 3 Meditation
+  - 3 Elven Ritual
+  - 3 Merfolk Shaman
+  - 3 Elf Armorer
+  - 3 Deep Meditation
+  - 3 Astral Analysis
+  - 2 Mind Master
+  - 2 Elven Mage
+  - 1 Duplicated Matrix
+  - 1 Merfolk Hunter
+  - 1 Elf Hermit
+  - 1 Elf Mystic
+  - 1 Adept of Power
+  - 1 Astral Collapse
+  - 1 Natural Hunger
+  - 1 Stone Rain
+### Estarch (Water/Air [3960]) - Magic Wall ramp. Kills via Call to Thunder or Ball of Lightning
+  - 3 Meditation
+  - 3 Merfolk Shaman
+  - 3 Deep Meditation
+  - 3 Duplicated Matrix
+  - 3 Call to Thunder
+  - 3 Astral Warrior
+  - 3 Forbidden Knowledge
+  - 3 Ritual of Wind
+  - 2 Magic Wall
+  - 2 Refiled Memory 
+  - 1 Ball of Lightning
+  - 1 Enslaving Wind
+
+# Decks
+- Battletoads (water + earth)
+- Dwarven Assault (earth+++)
+- Fierey Winds (air)
+- Dragons Rise (fire+ earth, Dragon+Goblin Lookout combo)
+- Ritual of Ethernal Sacrifice (water+earth combo - Wall of ethernal ice + Sword of Nature + Last Sacrifice)
+- Armageddon (fire + water)
+- Magic Walls (air ++++ ???)
+- Universum (aggro-control via 3 element combos)
+- Ashes to Ashes (Air+Fire Hyper Aggro)
+  - 3 [1] Faerie Apprentis
+  - 3 [1] Astral Warrior
+  - 3 [1] Goblin Shaman
+  - 3 [2] Wall of Fire
+  - 3 [3] Faerie Mage
+  - 3 [1] Ritual of Wind
+  - 3 [1] Astral Burn
+  - 3 [2] Fire Sparks
+  - 3 [2] Lightning Strike
+  - 3 [3] Refiled Memory
+- Bloody Ritual (fire+earth, Wall of Blood combo)
+- Legacy of Waterborn (water, Merfolks...)
+- Avengers 

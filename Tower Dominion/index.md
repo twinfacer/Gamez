@@ -1,0 +1,30 @@
+## Buildings
+- Platform (50 S)
+- Barricade (150 S) - __Pargan Assault Group__ exclusive.
+  - (100 S) Plasteel Frame: +75% HP
+  - (220 S) Underground Network: HQ +30% HP
+    - (250 S) Reinforced Frame: +150% HP
+    - ( 30 S) Reusable Parts: Gain 10 Supply when destroyed
+      - (  1 T) Regimental Icon: When destroyed, all buildings gain 5% damage until the end of wave
+      - (350 S) Network Relay: Adjacent buildings gain +15% Rate of Fire
+- Mirador (200 S)
+  - (150 S) Special reinforcement: Gain Detection. +1 Weapon (Defender M5)
+  - (190 S) Underground Depot: +50% Damage and Rate of Fire. +1 Range, 2 if at height 0
+    - ( 140 S) Logistic Reinforcement: +25% Reload speed. +1 Weapon (Defender M5)
+    - (1100 S) Long Barrels: +1 Range, +200% Damage
+      - (325 S) Veteran Reinforcement: +50% Rate of Fire. +1 Weapon (Defender M5)
+      - (350 S) Close Support: If adjacent to HQ, HQ gains: +30% HP, +15% Damage, Repair 5% HP per wave.
+- Bastion (575 S)
+  - (100 S) Simple Design: +25% Reload speed. Double if at height 0.
+  - (200 S) High Ground Expertise: +10% Damage per height level
+    - (300 S) Roof Snipers: Gain Detection. +3 Weapons (Eminus M4)
+    - (800 S) Roof-based Pulse Cannon: +1 Weapon (Pulse cannon, Strong shield break)
+      - (850 S) Shooting floor: +12 Weapons (Protector M2)
+      - (750 S) Ammo storage: +50% Damage and reload speed.
+- Claymore Defense (350 S)
+  - (350 S) Dual-Barrage LMG: +1 Weapon (Dual-barrage LMG)-Anti-Air
+  - (325 S) Multi-Pulse: +1 Weapon (Multi-pulse) - Shield-Break weapon
+    - (350 S) Dual-Barrage LMG: +1 Weapon (Dual-barrage LMG)-Anti-Air
+    - (315 S) Frag Launcher: +1 Weapon (Frag Launcher) - efficient against packs of small foes
+      - (600 S) Ammo Reserve: +30% Damage, Rate of Fire, Reload speed
+      - ( 90 R) Trajectory Analyzer: +2 Range
