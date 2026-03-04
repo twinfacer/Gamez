@@ -30,8 +30,11 @@ Lesson:
 - +50% efficiency on metal deposits.
 
 Items:
+- Calendar
 -
--
+
+Lessons:
+- [Vulnarability] - After his session in Completation Room.
 
 ### == Refiner
 - +50% efficiency on refining metal in __Refinery__.
@@ -51,7 +54,7 @@ Lesson:
 
 Items:
 - Band T-Shirt
--
+- Scout Badge
 
 Lessons:
 - [Charisma] Work-Life Balance - Maintain radiation filter and not use crunch hours for 5 days.
@@ -62,6 +65,9 @@ Lessons:
 Items:
 - Class Photo
 - Night Sky Projector
+
+Lesson:
+- [Relince]
 
 ### == Doctor (III QL REQ)
 - Heals alters 8x faster at the __Infirmary__, cooks food faster.
@@ -74,8 +80,14 @@ Items:
 - Disciplines alters in the __Contemplation Room__.
 
 Items:
+- Trading Card
 -
--
+
+Lessons
+- [Integrity]
+
+Lessons:
+- [Shrewdness] Perfect Crime - 
 
 ### == Therapist (III QL + Doctor REQ)
 - Comforts alters in the __Contemplation Room__.
@@ -83,3 +95,6 @@ Items:
 Items:
 - Lucky Key Chain
 - Yerba Kit
+
+Lessons:
+- [Chill]
