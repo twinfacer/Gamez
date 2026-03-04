@@ -43,12 +43,18 @@ Items:
 Quests:
 - 
 
+Lesson:
+- [Optimism] - Ask Lukas about Ben.
+
 ### Worker (Refiner REQ)
 - +50% efficiency when crafting items in the __Workshop__.
 
 Items:
 - Band T-Shirt
 -
+
+Lessons:
+- [Charisma] Work-Life Balance - Maintain radiation filter and not use crunch hours for 5 days.
 
 ### == Botanist
 - +100% efficiency when growing crops in the __Greenhouse__.
