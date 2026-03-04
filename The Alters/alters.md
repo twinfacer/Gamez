@@ -10,15 +10,21 @@ Items:
 Quests:
 - Build __Park with bench__. (???)
 
+Lesson:
+- [] - Build a Dormatory and win him at beer pong.
+
 ### == Scientist
 - Can work in __Research Lab__.
 
 Items:
-- Rubber Duck
+- Rubber Duck.
 - University hoody.
 
 Quests:
 - Personal research.
+
+Lesson:
+- [Pragmatism] - Maintain Crunch Hours for 2 days.
 
 ### == Miner
 - +50% efficiency on metal deposits.
@@ -30,9 +36,12 @@ Items:
 ### == Refiner
 - +50% efficiency on refining metal in __Refinery__.
 
-Items
+Items:
 - Bong
 - Skipping Rope
+
+Quests:
+- 
 
 ### Worker (Refiner REQ)
 - +50% efficiency when crafting items in the __Workshop__.
