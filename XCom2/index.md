@@ -27,7 +27,6 @@
   - __Poisoned__
     - Apply stats penalty (-30 AIM/-6 Mobility).
     - Deals 1 damage per turn.
-
   - __Smoke__ (3 Turns)
     - +20 Defence for ALL units within cloud. (Even Sparks/MECs????)
 
