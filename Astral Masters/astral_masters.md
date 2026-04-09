@@ -657,7 +657,7 @@
 - Armageddon (fire + water)
 - Magic Walls (air ++++ ???)
 - Universum (aggro-control via 3 element combos)
-- Ashes to Ashes (Air+Fire Hyper Aggro)
+- Ashes to Ashes (Air/Fire Hyper Aggro Burn)
   - 3 [1] Faerie Apprentis
   - 3 [1] Astral Warrior
   - 3 [1] Goblin Shaman

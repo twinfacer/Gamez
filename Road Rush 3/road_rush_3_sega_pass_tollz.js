@@ -34,7 +34,7 @@ const BIKES = [
 
 const GRADES = ['Performance', 'Suspention', 'Tires', 'Protection']
 
-// Checksum AFAIR do follows - get first 7 chars of password, convert them to binary, summs them them adds 1 to result. Then convert back to 1 char.
+// Checksum AFAIK do follows - get first 7 chars of password, convert them to binary, summs them them adds 1 to result. Then convert back to 1 char.
 function checksum(pass) {
   let sum = 1
   pass.replace(/\s/g, '').slice(0,8).split('').map(charToNum).map((n) => sum += n)
