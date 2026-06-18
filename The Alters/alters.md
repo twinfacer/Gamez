@@ -1,7 +1,7 @@
 ## Alters
 
 ### == Technitian
-- +50% efiicency on base maintenance
+- +50% Efficency on base maintenance task.
 
 Items:
 - Multitool ([-REBEL] + [-FRUST])
@@ -27,7 +27,7 @@ Lesson:
 - [Pragmatism] - Maintain Crunch Hours for 2 days.
 
 ### == Miner
-- +50% efficiency on metal deposits.
+- +50% Efficiency on metal deposits.
 
 Items:
 - Calendar
@@ -37,7 +37,7 @@ Lessons:
 - [Vulnarability] - After his session in Completation Room.
 
 ### == Refiner
-- +50% efficiency on refining metal in __Refinery__.
+- +50% Efficiency on refining enriched metal in __Refinery__.
 
 Items:
 - Bong
@@ -50,7 +50,7 @@ Lesson:
 - [Optimism] - Ask Lukas about Ben.
 
 ### Worker (Refiner REQ)
-- +50% efficiency when crafting items in the __Workshop__.
+- +50% Efficiency when crafting items in the __Workshop__.
 
 Items:
 - Band T-Shirt
@@ -60,14 +60,14 @@ Lessons:
 - [Charisma] Work-Life Balance - Maintain radiation filter and not use crunch hours for 5 days.
 
 ### == Botanist
-- +100% efficiency when growing crops in the __Greenhouse__.
+- +100% Efficiency when growing crops in the __Greenhouse__.
 
 Items:
 - Class Photo
 - Night Sky Projector
 
 Lesson:
-- [Relince]
+- [Relince] ???
 
 ### == Doctor (III QL REQ)
 - Heals alters 8x faster at the __Infirmary__, cooks food faster.

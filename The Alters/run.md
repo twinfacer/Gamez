@@ -80,7 +80,7 @@
   -> (GREASE)  - [JOY] + [-GLOOM]
 ```
 
-- Make pirogi at __Kitchen__. Eat pirogi with __Technotian__ than speak with him.
+- Make pirogi at __Kitchen__. Eat pirogi with __Technitian__ than speak with him.
 
 ```
 --- SO

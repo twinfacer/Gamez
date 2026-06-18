@@ -52,7 +52,7 @@ Items:
 -  Marked Cards
 -  Soccer Ball
 -  Lava Lamp (Technitian)
--  People who allways ends your sentances movie
+-  People who always ends your sentances movie
 -  Secret alien movie
 -  Damaged Qubit Chip
 
